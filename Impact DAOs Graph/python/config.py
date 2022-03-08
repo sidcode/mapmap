@@ -1,0 +1,5 @@
+timestamp_fmt  = "%Y%m%d-%H-%M"
+outdir         = "../data/"
+json_datapath  = "../data/impact_dao_data.json"
+json_graphpath = "../data/impact_dao_graph.json"
+csv_graphpath  = "../data/impact_dao_graph.csv"
