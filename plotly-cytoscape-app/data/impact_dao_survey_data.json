@@ -1,0 +1,2358 @@
+[
+    {
+        "Project Name":"0xdaoApe",
+        "UID":1.475869556e+18,
+        "Twitter":"0xdaoape",
+        "DAO Friends":[
+            "1Hive",
+            "TEC",
+            "GitcoinDAO",
+            "Giveth",
+            "1Hive Gardens"
+        ],
+        "DAO Followers":[
+            "Giveth",
+            "TEC"
+        ],
+        "Project Website":"https:\/\/mirror.xyz\/0x4529921387f7b686fc9b0b80754d2b2983496eD2",
+        "Project Description":"Highly subjective commentary on what's going on around the DAOsphere. Our focus is purely education while providing a fun-to-read content. While doing this, we basically shit on degen stuff around the DAOsphere, which are either cheap cash-grabs or outright scams. On the other hand, we have dedicated sections in our newsletter for regenerative economics, where we try to cover DAOs working on real world impact or attempting to optimize the funding of public goods, coordinating efforts in an efficient way to slay Moloch.",
+        "Impact Capital":"Intellectual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Web3 Onboarding,Education,Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"1Hive",
+        "UID":9.965527499e+17,
+        "Twitter":"1hiveorg",
+        "DAO Friends":[
+            "GitcoinDAO",
+            "1Hive Gardens"
+        ],
+        "DAO Followers":[
+            "0xdaoApe",
+            "1Hive Gardens",
+            "DeveloperDAO",
+            "Geo Web",
+            "Giveth",
+            "Kolektivo",
+            "Longtail Financial",
+            "Panvala",
+            "Protein Community",
+            "Solid World DAO",
+            "TEC",
+            "voizdao"
+        ],
+        "Project Website":"https:\/\/1hive.org\/",
+        "Project Description":"1Hive is a DAO that issues and distributes a digital currency called Honey.\nHoney holders stake on proposals using Conviction Voting to determine how issuance is distributed. By supporting proposals which increase the value of Honey, a positive feedback loop drives growth and sustainability.1Hive focuses on building, innovating and funding public goods in the DAO space while also building a thriving community of contributors. ",
+        "Impact Capital":"Social,Material,Financial,Intellectual,Cultural",
+        "Impact Roles":"Regenerative Finance,Tooling + Infrastructure,Web3 Onboarding",
+        "Impact Metrics":"https:\/\/gardens.1hive.org\/#\/xdai\/garden\/0x8ccbeab14b5ac4a431fffc39f4bec4089020a155"
+    },
+    {
+        "Project Name":"1Hive Gardens",
+        "UID":1.421237329e+18,
+        "Twitter":"gardensdao",
+        "DAO Friends":[
+            "TEC",
+            "Giveth",
+            "1Hive"
+        ],
+        "DAO Followers":[
+            "0xdaoApe",
+            "1Hive",
+            "Giveth",
+            "Longtail Financial",
+            "Protein Community",
+            "Solid World DAO",
+            "TEC",
+            "The Eden Dao",
+            "voizdao"
+        ],
+        "Project Website":"https:\/\/gardens.1hive.org",
+        "Project Description":"Gardens is a plug-and-play DAO governance framework that gives organizations and movements a sustainable, regenerative token economy for funding public goods. \n\nGardens are built around a Covenant, which lays out the community's mission and acceptable behavior within the DAO. The community can be funded with an existing ERC-20 token, or a new token can be minted for the Garden with Dynamic Supply Issuance. Any community member (who has signed the Covenant and made a refundable deposit) can propose funding from the Garden's treasury. Proposals are approved through Conviction Voting, with a decentralized arbitration court Celeste protecting the Garden from bad actors.\n\nWe aim to build a future where resource allocation for public goods more accurately reflects the value they bring to the world.",
+        "Impact Capital":"Social,Material,Financial,Living,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/gardens.1hive.org\/"
+    },
+    {
+        "Project Name":"AYOWECCA",
+        "UID":3197090716.0,
+        "Twitter":"ayowecca_uganda",
+        "DAO Friends":[
+            "Panvala"
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/www.ayoweccauganda.org",
+        "Project Description":"Climate Change, Ecosystems & Forests",
+        "Impact Capital":"Living,Cultural",
+        "Impact Roles":"Descentralized Science,Education",
+        "Impact Metrics":"https:\/\/gitcoin.co\/grants\/4014\/agroforestry-climate-change-forests-and-ecosystems"
+    },
+    {
+        "Project Name":"Acerola Fund",
+        "UID":1.352737184e+18,
+        "Twitter":"acerolafund",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/opensea.io\/acerolafund",
+        "Project Description":"The Acerola Fund is a distributed governance and indirect coordination experiment focused on the acquisition of NFT\u2019s created by artists from the Global South. It was created by Brazilian artist Pedro Victor Brand\u00e3o as a way to experiment with decision making strategies in web3 with a stream of funds that comes from percentages of sales, royalties, staking, airdrops and donations. ",
+        "Impact Capital":"Financial,Intellectual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Web3 Onboarding,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/etherscan.io\/tokenholdings?a=0x904f594ba4e7abbc4a112acc6ea2371cf8cb08ee"
+    },
+    {
+        "Project Name":"Aera Force",
+        "UID":1.468747986e+18,
+        "Twitter":"aeraforce",
+        "DAO Friends":[
+            "Return Protocol",
+            "ClimateDAO ",
+            "The Eden Dao",
+            "KlimaDAO"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Carbon Captors ",
+            "ClimateDAO ",
+            "Return Protocol",
+            "The Eden Dao"
+        ],
+        "Project Website":"https:\/\/www.aeraforce.xyz\/",
+        "Project Description":"the Aera Force DAO is part venture fund, part DAO community and fully focused on helping catalyse a regenerative future for our planet.The DAO\u2019s first investment syndicate of 2000 ETH will invest in early stage innovations that leverage blockchain technology to accelerate a regenerative future, while building a formidable community that will shape the future. ",
+        "Impact Capital":"Social,Financial,Intellectual",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Descentralized Science,Collective Impact -- UN style we support other smaller orgs to succeed,Applied Research,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/etherscan.io\/address\/0x29a265261bc3ba1cb8a438110e6550ea66261bc7"
+    },
+    {
+        "Project Name":"AntidoteDAO",
+        "UID":1.486470137e+18,
+        "Twitter":"antidotedao",
+        "DAO Friends":[
+            "Decent DAO",
+            "Dream DAO",
+            "LabDAO",
+            "dClimate",
+            "Popcorn",
+            "Return Protocol",
+            "Avano",
+            "Meta Gamma Delta DAO ",
+            "Carbon Captors ",
+            "Aera Force",
+            "KlimaDAO",
+            "DeveloperDAO",
+            "Solid World DAO",
+            "ClimateDAO ",
+            "ReFi DAO",
+            "Molecule",
+            "Cherubs DAO",
+            "The Eden Dao",
+            "VitaDAO"
+        ],
+        "DAO Followers":[
+            "Carbon Captors ",
+            "Cherubs DAO",
+            "Solid World DAO"
+        ],
+        "Project Website":"https:\/\/antidotedao.org",
+        "Project Description":"AntidoteDAO is the first DAO focused on funding different cancer initiatives! $ADAO is an hyper deflationary token on the Polygon Network that also acts as our governance token. The AntidoteDAO token was developed by the AntidoteDAO team to take advantage of developments in crypto\/blockchain technology and support a good cause! Earn tokens for holding and contributing to the project. Staking and NFT\u2019s coming soon!",
+        "Impact Capital":"Financial,Intellectual",
+        "Impact Roles":"Enabling a New Giving Economy,Descentralized Science",
+        "Impact Metrics":"https:\/\/www.antidotedao.org\/donations"
+    },
+    {
+        "Project Name":"Artizen",
+        "UID":3184528398.0,
+        "Twitter":"artizenfund",
+        "DAO Friends":[
+            "ClimateDAO ",
+            "Protein Community",
+            "KlimaDAO",
+            "Cabin",
+            "Kleros",
+            "Proof of Humanity",
+            "GitcoinDAO"
+        ],
+        "DAO Followers":[
+            "ClimateDAO ",
+            "Protein Community"
+        ],
+        "Project Website":"https:\/\/www.artizen.fund\/",
+        "Project Description":"Artizen is building the largest fund in the world for public goods. Art, science, open source technology, journalism, education, and a healthy environment - public goods like these are essential for a thriving civilization and sustainable planet. Join Artizen and together we\u2019ll build a new system to fund the people, projects, and causes that matter most to our communities. \n",
+        "Impact Capital":"Social,Financial,Intellectual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Descentralized Science,Collective Impact -- UN style we support other smaller orgs to succeed",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Astral Protocol",
+        "UID":1.30114398e+18,
+        "Twitter":"astralprotocol",
+        "DAO Friends":[
+            "dClimate",
+            "GitcoinDAO",
+            "Geo Web",
+            "KlimaDAO",
+            "PR1S0N Art",
+            "Bloom Network"
+        ],
+        "DAO Followers":[
+            "Carbon Captors ",
+            "dClimate",
+            "Geo Web",
+            "Kolektivo",
+            "PR1S0N Art",
+            "Protein Community",
+            "Solid World DAO",
+            "Bloom Network"
+        ],
+        "Project Website":"https:\/\/astral.global\/",
+        "Project Description":"Building public goods to provide spatial and location data on the decentralized web",
+        "Impact Capital":"Material",
+        "Impact Roles":"Tooling + Infrastructure",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Atoms",
+        "UID":1.407791008e+18,
+        "Twitter":"atoms_org",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "Foresight Institute DAO",
+            "Molecule",
+            "VitaDAO"
+        ],
+        "Project Website":"http:\/\/atoms.org",
+        "Project Description":"Atoms.org is a web3 research platform.We\u2019re developing software to make open research funding and publishing more efficient, scalable, and credible. Our tools help funders (including both institutions and individual patrons) fund grants, bounties, and prizes. Researchers get recognition and funding not only for papers but also discussion and review. Our overall mission is to accelerate scientific progress by reducing friction, improving quality, and enabling high-risk, high-reward research.",
+        "Impact Capital":"Material,Financial,Intellectual",
+        "Impact Roles":"Descentralized Science",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Avano",
+        "UID":1.458474141e+18,
+        "Twitter":"avano_io",
+        "DAO Friends":[
+            "Return Protocol",
+            "NFTree Haus",
+            "ReFi DAO",
+            "ClimateDAO ",
+            "The Eden Dao",
+            "Solid World DAO",
+            "MOONJELLY",
+            "dClimate"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Carbon Captors ",
+            "Geo Web",
+            "MOONJELLY",
+            "NFTree Haus",
+            "ReFi DAO",
+            "Return Protocol",
+            "Solid World DAO",
+            "Bloom Network",
+            "Xplorer Club. Environment.wiki"
+        ],
+        "Project Website":null,
+        "Project Description":"A regenerative NFT marketplace (DAO managed) that incentivizes actions that increase and maintain native ecosystems (ie. tree planting). ",
+        "Impact Capital":"Social,Material,Financial,Living,Intellectual,Experiential",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,New Data Economy (eg. Ocean Protocol),Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/tree-nation.com\/profile\/sustainable-profit"
+    },
+    {
+        "Project Name":"BioDAO",
+        "UID":1.476703422e+18,
+        "Twitter":"biodaoxyz",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "Cherubs DAO",
+            "Foresight Institute DAO"
+        ],
+        "Project Website":"http:\/\/www.biodao.xyz",
+        "Project Description":"Global decentralized community to support and fund early stage biotech from university tech transfer offices and academic lab benches to fully formed biotech companies. BioDAO will support real-world biotech assets developed by the DAO-funded projects and its members will make operational and strategic decisions.",
+        "Impact Capital":"Social,Financial,Intellectual",
+        "Impact Roles":"Descentralized Science",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Blood M1n3",
+        "UID":1.465761899e+18,
+        "Twitter":"bloodm1n3",
+        "DAO Friends":[
+            "Return Protocol",
+            "KlimaDAO",
+            "ReFi DAO",
+            "Giveth",
+            "GitcoinDAO",
+            "dClimate",
+            "ClimateDAO "
+        ],
+        "DAO Followers":[
+            "Solid World DAO"
+        ],
+        "Project Website":"https:\/\/www.bloodmines.xyz\/",
+        "Project Description":"BLOOD M1N3 is an illegal mining documentation project on Ethereum.\n\nOur mission is to map the world's illegal mines on Web3 and we begin mapping the Amazonian mining crisis in Venezuela with a series of unique BLOOD M1N3 NFTs.\n\nBLOOD M1N3 NFTs are unique 3D topographic videos created from a photograph of a chartered international or Venezuelan-state satellite. \n\nEach illegal mine we document is released as a limited and unique edition of BLOOD M1NE NFTs, capturing the mine from a satellite.\n\nWe also release a 0100-edition mine report which is a satellite image of the mine accompanied with mine data, and research from journalists and academics.\n\nAll the information about the BLOOD M1N3s will be documented in a public spreadsheet.\n\nWhen you buy a BLOOD M1N3 NFT, the funds will go directly to sustainable mining advocacy groups, reforestation and detoxification projects, and local indigenous groups living within illegal mining regions.",
+        "Impact Capital":"Social,Financial,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Collective Impact -- UN style we support other smaller orgs to succeed,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Bloom Network",
+        "UID":703497835.0,
+        "Twitter":"ourbloomnetwork",
+        "DAO Friends":[
+            "ReFi DAO",
+            "MOONJELLY",
+            "The Eden Dao",
+            "Solid World DAO",
+            "Avano",
+            "Dream DAO",
+            "Panvala",
+            "Kolektivo",
+            "GitcoinDAO",
+            "Meta Gamma Delta DAO ",
+            "Giveth",
+            "TEC",
+            "Astral Protocol",
+            "Grassroots Economics"
+        ],
+        "DAO Followers":[
+            "Astral Protocol",
+            "Giveth",
+            "Kolektivo",
+            "Panvala",
+            "PR1S0N Art",
+            "ReFi DAO",
+            "Return Protocol",
+            "Solid World DAO",
+            "TEC"
+        ],
+        "Project Website":"http:\/\/bloomnetwork.org",
+        "Project Description":"Bloom Network is a peer-to-peer action network with local chapters doing regenerative actions and sharing information and resources to rapidly upskill for healthy futures. 30,000 people on the ground enact food sovereignty, transformative justice, arts gatherings, and regional economic autonomy, across 16 local chapters in 8 countries.",
+        "Impact Capital":"Social,Material,Financial,Living,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Cabin",
+        "UID":1.328939222e+18,
+        "Twitter":"creatorcabins",
+        "DAO Friends":[
+            "VitaDAO",
+            "Protein Community"
+        ],
+        "DAO Followers":[
+            "Artizen",
+            "Cohere",
+            "Protein Community",
+            "ReFi DAO",
+            "WellnessDAO",
+            "Xplorer Club. Environment.wiki"
+        ],
+        "Project Website":"https:\/\/www.creatorcabins.com\/",
+        "Project Description":"\ud83c\udfe1 a community of cabins for web3 workers \n\ud83c\udf10 a DAO retreat & residency program \n\ud83c\udf06 an experiment in decentralized cities ",
+        "Impact Capital":"Social,Material,Living,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding,Education",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Carbon Captors ",
+        "UID":1.496813201e+18,
+        "Twitter":"carboncaptors",
+        "DAO Friends":[
+            "AntidoteDAO",
+            "Gaia",
+            "dClimate",
+            "Astral Protocol",
+            "Kumo Earth",
+            "Avano",
+            "Solid World DAO",
+            "Return Protocol",
+            "GitcoinDAO",
+            "KlimaDAO",
+            "ClimateDAO ",
+            "The Eden Dao",
+            "Aera Force",
+            "DeveloperDAO",
+            "ReFi DAO",
+            "Dream DAO"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Solid World DAO"
+        ],
+        "Project Website":null,
+        "Project Description":"DAO to turbocharge carbon removal technologies and bring high quality carbon offsets to the chain via Toucan ",
+        "Impact Capital":"Social,Material,Financial",
+        "Impact Roles":"Regenerative Finance,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Cheerbot",
+        "UID":1.421233268e+18,
+        "Twitter":"cheerbotme",
+        "DAO Friends":[
+            "Web3 Music Metadata Standards Coalition",
+            "Tip Party"
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"http:\/\/cheerbot.org",
+        "Project Description":"Cheerbot is software merging Web3 Maker projects with easy-to-use Raspberry Pis for \"physical automation literacy for all peoples\" North Star",
+        "Impact Capital":"Social,Material,Intellectual,Cultural",
+        "Impact Roles":"Web3 Onboarding,Education,New Data Economy (eg. Ocean Protocol),Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Cherubs DAO",
+        "UID":1.448253976e+18,
+        "Twitter":"cherubsdao",
+        "DAO Friends":[
+            "Dream DAO",
+            "Tip Party",
+            "ReFi DAO",
+            "TEC",
+            "Giveth",
+            "LabDAO",
+            "VitaDAO",
+            "GitcoinDAO",
+            "BioDAO",
+            "Molecule",
+            "AntidoteDAO"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Giveth",
+            "Solid World DAO"
+        ],
+        "Project Website":"https:\/\/cherubsdao.com\/",
+        "Project Description":"Be the difference for the causes you believe in. One Cherub at a time. An NFT governed community of extraordinary people changing the world. Cherubs DAO aims to support underfunded social causes like brain health and longevity.",
+        "Impact Capital":"Social,Financial,Living,Intellectual",
+        "Impact Roles":"Enabling a New Giving Economy,Descentralized Science,Collective Impact -- UN style we support other smaller orgs to succeed,Web3 Onboarding,Education",
+        "Impact Metrics":"https:\/\/testnet.cherubsdao.com\/"
+    },
+    {
+        "Project Name":"Circonomy",
+        "UID":1.470127828e+18,
+        "Twitter":"circonomydao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/circon.me\/",
+        "Project Description":"We are a Web3 cooperative centred on circular economics and circular design tackling the climate change challenge by starting with the plastic recycling problem. Here's the Gitcoin Grant description of Circonomy: https:\/\/gitcoin.co\/grants\/4335\/circonomy",
+        "Impact Capital":"Social,Material,Financial,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Descentralized Science,Collective Impact -- UN style we support other smaller orgs to succeed,Applied Research,Tooling + Infrastructure,Web3 Onboarding,Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"ClimateDAO ",
+        "UID":1.425536434e+18,
+        "Twitter":"climate_dao",
+        "DAO Friends":[
+            "VitaDAO",
+            "SuperBenefit",
+            "Return Protocol",
+            "PizzaDAO",
+            "DOER Money DAO",
+            "Solid World DAO",
+            "Aera Force",
+            "ReFi DAO",
+            "Artizen",
+            "Gaia",
+            "The Eden Dao",
+            "KlimaDAO",
+            "DeveloperDAO",
+            "dClimate",
+            "TEC",
+            "Protein Community",
+            "PactDAO",
+            "Dream DAO"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Artizen",
+            "Avano",
+            "Blood M1n3",
+            "Carbon Captors ",
+            "Longtail Financial",
+            "MOONJELLY",
+            "PactDAO",
+            "PR1S0N Art",
+            "Protein Community",
+            "ReFi DAO",
+            "Return Protocol",
+            "Solid World DAO",
+            "The Eden Dao",
+            "Aera Force",
+            "Xplorer Club. Environment.wiki"
+        ],
+        "Project Website":"http:\/\/www.climatedao.xyz",
+        "Project Description":"ClimateDAO is a membership community with three missions:\n\n1) Mitigate the causes and symptoms of human-caused climate change.\n2) Democratize shareholder activism for the \u2018everyday\u2019 retail investor. \n3) Increase adoption of blockchain technology for social good.\n\nWe will create value by holding corporations accountable to its shareholders and its stakeholders. Before going further, we\u2019ll describe the basic mechanics of this organization, where the money changes hands, and how power is distributed. \n\nUsers of the platform will exchange some currency for a number of ERC-20 tokens called $CLIMATE that will represent a right to govern the underlying assets. Members of ClimateDAO will be able to issue a proposal for DAO to buy stock in a public company. Proposals are typically aimed at taking a position in a company to influence its direction via proxy voting or otherwise engaging members of the company\u2019s board. \n",
+        "Impact Capital":"Social,Financial,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Web3 Onboarding",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Clime DAO",
+        "UID":1.49636307e+18,
+        "Twitter":"climedao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "Return Protocol"
+        ],
+        "Project Website":"http:\/\/www.climedao.com",
+        "Project Description":"My start up Clime DAO is on a mission to reduce average carbon footprint from 4 tco2e to 2 by 2030 & 1 by 2050. Users join carbon economy via CLIM\/CLI token (Whitepaper www.climedao.com   ). Clime DAO will build and capacitate (provide purpose, enable action and provide incentivization) a decentralized community of Individual or consumer or households (ICH) users to reduce their carbon footprint through CLIM token (NFT- ERC 721) and CLI token (ERC20). ",
+        "Impact Capital":"Financial,Living",
+        "Impact Roles":"Regenerative Finance",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Code4rena",
+        "UID":1.358831197e+18,
+        "Twitter":"code4rena",
+        "DAO Friends":[
+            "Parcel.money"
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/code4rena.com",
+        "Project Description":"Code4rena is a DAO using a competitive model to scale high-quality on-demand smart contract audits in order to secure the web3 ecosystem.",
+        "Impact Capital":"Material,Financial",
+        "Impact Roles":"Tooling + Infrastructure,New Data Economy (eg. Ocean Protocol)",
+        "Impact Metrics":"https:\/\/code4rena.com\/leaderboard"
+    },
+    {
+        "Project Name":"Cohere",
+        "UID":1.358092688e+18,
+        "Twitter":"coherenetwork",
+        "DAO Friends":[
+            "The Eden Dao",
+            "Protein Community",
+            "ReFi DAO",
+            "Cabin",
+            "Kolektivo"
+        ],
+        "DAO Followers":[
+            "ReFi DAO",
+            "Solid World DAO"
+        ],
+        "Project Website":"https:\/\/www.cohere.network\/",
+        "Project Description":"Cohere is a member-owned network of conscious co-living communities that combine the value of owning a home, the freedom of renting and a sense of belonging wherever you go. Our members are comprised of changemakers, cultural creatives and impact entrepreneurs creating meaningful change in the world.",
+        "Impact Capital":"Social,Material,Financial,Living,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding,Education,Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":"https:\/\/etherscan.io\/address\/0x5A363C20354E80D97CA51f34DfF3B882423b9B7d#code"
+    },
+    {
+        "Project Name":"Crowdmuse",
+        "UID":1.393871556e+18,
+        "Twitter":"crowdmuse",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"http:\/\/crowdmuse.com",
+        "Project Description":"crowdmuse is an open-source collaboration platform with forkable, regenerative business models (we call them \u201csmart workflows\u201d) that you can contribute to and earn revenue and equity in your projects. \n\nwe research, pilot and deploy smart workflows on chain, so our community can contribute to  existing projects or fork their own local instances of collaborative, sustainable supply chains (e.g. fashion, plastics, cement), circular products (e.g. consumer goods), net zero emission production assets (e.g. power, heat, microgrids, storage), development projects (e.g. homes, co-living spaces), and regenerative communities (e.g. homeless invigoration, refugee integration).\n\nwe build every smart workflow as part of our problem solving cohorts. each cohort deep dives into complex problems to understand value extractive behaviors, in order to replace them with positive-sum incentives for more sustainable supply chains, products and assets.\n\nas part of the crowdmuse alpha launch in may 2022, we will host our first sustainable fashion hackathon to deploy a forkable, localized fashion brand and supply chain on the crowdmuse platform. \n\n\u2018made with love\u2019 is a decentralized sustainable fashion brand that brings together fashion designers, tailors, recycling manufacturers, and even fast fashion corporations to build hyperlocal supply chains for upcycled and recycled fashion brands.\n\nin addition to our smart workflows, we\u2019re building many more web3 primitives to enhance multiplayer collaboration, dynamic value creation\/distribution, and evolutionary knowledge networks.",
+        "Impact Capital":"Social,Material,Living,Intellectual,Experiential",
+        "Impact Roles":"Enabling a New Giving Economy,Descentralized Science,Collective Impact -- UN style we support other smaller orgs to succeed,Applied Research,Tooling + Infrastructure,Web3 Onboarding,Education",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"DAOpunks",
+        "UID":1.435302454e+18,
+        "Twitter":"daopunksnft",
+        "DAO Friends":[
+            "UltraSound Merch Supply Chain"
+        ],
+        "DAO Followers":[
+            "UltraSound Merch Supply Chain"
+        ],
+        "Project Website":"http:\/\/www.daopunks.io",
+        "Project Description":"DAOpunks DAO was formed to cultivate the DAOpunk culture and help aspiring DAOpunks transition away from the corpRAT world and onboard them into the DAOsphere. 20 ETH was raised from an PFP project of 1111 DAOpunk NFTs. The project was born out of BanklessDAO. This is a community-governed and community-driven grant program that provides the initial resources and support that are needed to take the leap and go full-time DAOpunk.\n\nGrants are awarded based on the DAOpunk mission and philosophy as defined by the community. \n\nManifesto:\n\nWe exist to enable  humans to liberate themselves from the soul-sucking drudgery of default world work.\nTogether, we forge paths to fertile promised lands,\nWhere all find freedom, opportunity, meaningful work, community, and untold abundance.\nThe path is wild and untraveled yet; by working together we go further  \nWe blaze trails. We build bridges. \nA better world awaits. \nDAOpunks leads the way. \n",
+        "Impact Capital":"Social,Financial,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Web3 Onboarding",
+        "Impact Metrics":"https:\/\/snapshot.org\/#\/daopunks.eth"
+    },
+    {
+        "Project Name":"DOER Money DAO",
+        "UID":1.474425781e+18,
+        "Twitter":"doerdotmoney",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "ClimateDAO "
+        ],
+        "Project Website":"https:\/\/www.acredaos.com\/",
+        "Project Description":"DOER Money is Permissionless Income for the Regenerative Economy Workforce! \n\nThe DOER Money DAO operates a Sponsorship Pool invested for the benefit ACRE DAOs members. ACRE DAOs is a Web3 Impact Investment Club for change agents who believe that large numbers of people can effectively and dynamically organize for the funding of targeted regenerative economy solutions. \n\n$DOER token holders elect Trust Protectors to oversee community governance, investment manager smart contract development and distribution of income to eligible ACRE DAOs members. We pay USD stable coins 1:1 for $ACRE tokens earned doing regenerative economy work anywhere in the world.",
+        "Impact Capital":"Financial",
+        "Impact Roles":"Regenerative Finance",
+        "Impact Metrics":"https:\/\/juicebox.money\/#\/p\/doer"
+    },
+    {
+        "Project Name":"Decent DAO",
+        "UID":8.69742358e+17,
+        "Twitter":"decent_dao",
+        "DAO Friends":[
+            "ShapeShift DAO"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO"
+        ],
+        "Project Website":"http:\/\/decentlabs.io",
+        "Project Description":"We are an on-chain venture studio coordinating builders and visionaries to create critical infrastructure and tooling that supports the decentralization of vital institutions.",
+        "Impact Capital":"Social,Material,Financial,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Regenerative Finance,Tooling + Infrastructure,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"DeveloperDAO",
+        "UID":1.433793311e+18,
+        "Twitter":"developer_dao",
+        "DAO Friends":[
+            "WellnessDAO",
+            "1Hive",
+            "Dream DAO",
+            "KlimaDAO",
+            "GitcoinDAO",
+            "Tip Party",
+            "Protein Community"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Carbon Captors ",
+            "ClimateDAO ",
+            "LabDAO",
+            "Longtail Financial",
+            "Protein Community",
+            "Public Good School",
+            "Tip Party",
+            "WellnessDAO"
+        ],
+        "Project Website":"http:\/\/developerdao.com",
+        "Project Description":"Build Web3 with Friends!\nDeveloper DAO trains web3 builders, builds public goods, and trains web3 builders to build public goods.\nWe're building a better world together - join us!",
+        "Impact Capital":"Social,Material,Intellectual,Cultural",
+        "Impact Roles":"Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding,Education,Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Dream DAO",
+        "UID":1.436307044e+18,
+        "Twitter":"dreamdao_",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Carbon Captors ",
+            "Cherubs DAO",
+            "ClimateDAO ",
+            "DeveloperDAO",
+            "MOONJELLY",
+            "Protein Community",
+            "Solid World DAO",
+            "The Eden Dao",
+            "Bloom Network",
+            "Xplorer Club. Environment.wiki"
+        ],
+        "Project Website":"https:\/\/dreamdao.xyz\/",
+        "Project Description":"Powered by Civics Unplugged, the Dream DAO invests in the future of the web3 x social impact ecosystem by providing diverse Gen Zers around the globe with the training, funding, and mentorship they need to leverage the power of web3 to secure a brighter future for humanity.",
+        "Impact Capital":"Social,Financial,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Applied Research,Tooling + Infrastructure,Web3 Onboarding,Education,Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":"https:\/\/cucrew.notion.site\/Dream-DAO-Events-Planning-Hub-Meeting-Notes-5eb4b870ef7643a4986aa5b6f0fdb3b8"
+    },
+    {
+        "Project Name":"ETH Puerto Rico DAO",
+        "UID":1.375109556e+18,
+        "Twitter":"ethprdao",
+        "DAO Friends":[
+            "Giveth",
+            "Proof of Humanity",
+            "Kolektivo"
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"http:\/\/ethpr.org",
+        "Project Description":"ETH PR is a self-governed organization dedicated to experimenting with decentralized governance mechanisms to collectively and sustainably coordinate events, education, and resources to promote blockchain adoption and development in Puerto Rico.\n\n",
+        "Impact Capital":"Social,Financial,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Regenerative Finance,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/gardens.1hive.org\/#\/xdai\/garden\/0xc6ebf5931138187349a8e73118d208cc9dcfb6ce\/"
+    },
+    {
+        "Project Name":"Earth.fm",
+        "UID":1.488574984e+18,
+        "Twitter":"earth_fm_live",
+        "DAO Friends":[
+            "GitcoinDAO",
+            "ReFi DAO"
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"http:\/\/earth.fm\/",
+        "Project Description":"Earth.fm is a non-profit organisation that seeks to protect and regenerate natural ecosystems and reconnect us to the more-than-human world.\n\nWe're developing a platform to showcase rare natural soundscapes with the help of professional field recordists, turn them into gorgeous unique NFTs with the help of different artists, and auction them, using the money raised to support the protection and restoration of natural ecosystems, empowering local communities and fighting climate change. \n\nEvery three days we put up for auction an NFT \u201csoundscape\u201d composed of a unique one-hour nature sound portrait and a painting inspired by it. In parallel, each episode will be uploaded daily to all podcast platforms, free for everyone to listen to.\n\nWe aim to use 80% of our revenue to support various nature restoration and conservation charities chosen and voted on by the community, according to principles backed by science.\n\nThe remaining 20% we\u2019ll use for paying the field recordists and artists, covering the running costs, and to get the word out and get more people involved in the project.\n\n",
+        "Impact Capital":"Social,Material,Living,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Descentralized Science,Tooling + Infrastructure,Web3 Onboarding",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Ed3DAO \/ Ed3 Educators",
+        "UID":1.470221395e+18,
+        "Twitter":"ed3dao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "voizdao"
+        ],
+        "Project Website":"https:\/\/www.ed3educators.com\/",
+        "Project Description":"The goal of Ed3DAO is to build a foundation for onboarding educators from across the world into web3 in order to catalyze innovation through thought leadership, resource creation, and collaboration. The Ed3 Educators NFT project will provide educators the support they need to prepare the next generation of students for the future of work while creating awareness and garnering support from the larger web3 ecosystem. ",
+        "Impact Capital":"Social,Material,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Collective Impact -- UN style we support other smaller orgs to succeed,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Endaoment",
+        "UID":1.179549886e+18,
+        "Twitter":"endaomentdotorg",
+        "DAO Friends":[
+            "Giveth",
+            "The Eden Dao",
+            "GitcoinDAO",
+            "Kleros",
+            "Proof of Humanity",
+            "impactMarket",
+            "Meta Gamma Delta DAO ",
+            "Socialstack"
+        ],
+        "DAO Followers":[
+            "Foresight Institute DAO",
+            "Longtail Financial",
+            "Socialstack"
+        ],
+        "Project Website":"http:\/\/endaoment.org",
+        "Project Description":"Nonprofit community foundation serving as the crypto community's philanthropic institution. ",
+        "Impact Capital":"Social,Material,Financial",
+        "Impact Roles":"Enabling a New Giving Economy,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"EthStaker",
+        "UID":1.314178787e+18,
+        "Twitter":"ethstaker",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/ethstaker.cc",
+        "Project Description":"EthStaker promotes knowledge about staking on the Ethereum beacon chain and educates about ways to increase decentralization of the Ethereum network. Our community actively welcomes all users with a \"welcoming first and knowledgeable second motto\". Our goal is to reduce the technical barrier to solo staking and build a strong Layer 0 community around staking.",
+        "Impact Capital":"Social,Material,Financial,Living,Intellectual",
+        "Impact Roles":"Regenerative Finance,Tooling + Infrastructure,Education",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"EthicHub",
+        "UID":9.00704959e+17,
+        "Twitter":"ethichub",
+        "DAO Friends":[
+            "Giveth",
+            "ShapeShift DAO"
+        ],
+        "DAO Followers":[
+            "Giveth",
+            "Kolektivo",
+            "Longtail Financial",
+            "Solid World DAO"
+        ],
+        "Project Website":"http:\/\/ethichub.com",
+        "Project Description":"EthicHub is the first ReFi solution for the financially undeserved, securing lending for sustainable impact. Yield farmers backing actual farmers with regenerative practices, connecting DeFi to the productive economy of the real world: crowdlending backed by crowd-collateral.\n\nBy leveraging the power of blockchain technology and smart contracts, lenders from all over the world are able to invest in the productivity of unbanked smallholder farmers, providing them access to affordable capital with minimized risk loans, all enabled by EthicHub\u2019s innovative Compensation System. It provides a liquid collateral to the lender\u2019s capital in the form of staking Ethix, its own token.\n\nThrough EthicHub\u2019s protocol, anyone can lend capital to the farmers and\/or stake collateral on their behalf in the form of Ethix to secure the farmers\u2019 loans. EthicHub also provides farmers with access to added value markets so they are no longer the weakest link in the supply chain.",
+        "Impact Capital":"Social,Financial,Experiential",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Tooling + Infrastructure,Web3 Onboarding,New Data Economy (eg. Ocean Protocol),Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/ethix.ethichub.com\/en\/stats"
+    },
+    {
+        "Project Name":"Foresight Institute DAO",
+        "UID":260394566.0,
+        "Twitter":"foresightinst",
+        "DAO Friends":[
+            "Atoms",
+            "Molecule",
+            "LabDAO",
+            "GitcoinDAO",
+            "Endaoment",
+            "VitaDAO",
+            "BioDAO"
+        ],
+        "DAO Followers":[
+            "LYNX",
+            "Molecule",
+            "VitaDAO"
+        ],
+        "Project Website":"https:\/\/foresight.org\/foresight-discord\/",
+        "Project Description":"Foresight Institute is a 30+ year-strong Bay Area science non-profit to advance flourishing future unlocked by technologies. \n\nForesight DAO is a new initiative within our organization to support early-stage, interdisciplinary projects for sci-fi futures that are too ambitious for legacy funders to take on. \n\nMainly, but not only, these are bio, nano, neurotech, computing, and space projects generated within the Foresight community, through our technical tracks, fellowships, tech trees, and competitions.\n\nTechnical tracks: https:\/\/foresight.org.\nFellowships: https:\/\/foresight.org\/fellowship-class-of-2022.\nTech Trees: https:\/\/foresight.pub\/techtreepost",
+        "Impact Capital":"Social,Financial,Intellectual",
+        "Impact Roles":"Descentralized Science",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Gaia",
+        "UID":1.465812049e+18,
+        "Twitter":"gaiadao_fi",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "Carbon Captors ",
+            "ClimateDAO ",
+            "MOONJELLY",
+            "Return Protocol"
+        ],
+        "Project Website":"https:\/\/gaiadao.money\/",
+        "Project Description":"We are building a protocol aiming to become a pioneer in environmental investing on blockchain. We decided to launch our project to fight humanity\u2019s biggest crisis: global warming. To learn more about our vision, check out our docs https:\/\/docs.gaiadao.money\/ and Medium articles https:\/\/medium.com\/@gaiadao.money ",
+        "Impact Capital":"Social,Material,Financial,Living",
+        "Impact Roles":"Regenerative Finance,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/app.gaiadao.money\/#\/dashboard"
+    },
+    {
+        "Project Name":"Geo Web",
+        "UID":1.291047911e+18,
+        "Twitter":"thegeoweb",
+        "DAO Friends":[
+            "dClimate",
+            "Kolektivo",
+            "Tip Party",
+            "Avano",
+            "1Hive",
+            "Panvala",
+            "GitcoinDAO",
+            "Giveth",
+            "TEC",
+            "Astral Protocol"
+        ],
+        "DAO Followers":[
+            "Astral Protocol",
+            "Giveth"
+        ],
+        "Project Website":"https:\/\/www.geoweb.network\/",
+        "Project Description":"The Geo Web is a system of open protocols and property rights for anchoring digital content to physical locations\u2014creating a persistent, global augmented reality layer. We're using Harberger taxes\/partial common ownership to legitimately bootstrap and administer our digital land NFT market. All proceeds from the land market are used to fund public good(s).",
+        "Impact Capital":"Social,Intellectual,Experiential",
+        "Impact Roles":"Regenerative Finance,Tooling + Infrastructure",
+        "Impact Metrics":"https:\/\/geo-web-project.github.io\/sourcecred-instance\/#\/explorer"
+    },
+    {
+        "Project Name":"GitcoinDAO",
+        "UID":8.564464532e+17,
+        "Twitter":"gitcoin",
+        "DAO Friends":[
+            "Tip Party",
+            "Panvala",
+            "Giveth"
+        ],
+        "DAO Followers":[
+            "0xdaoApe",
+            "1Hive",
+            "Artizen",
+            "Astral Protocol",
+            "Blood M1n3",
+            "Carbon Captors ",
+            "Cherubs DAO",
+            "DeveloperDAO",
+            "Endaoment",
+            "Foresight Institute DAO",
+            "Geo Web",
+            "Giveth",
+            "impactMarket",
+            "Longtail Financial",
+            "Meta Gamma Delta DAO ",
+            "Molecule",
+            "MOONJELLY",
+            "Panvala",
+            "Proof of Humanity",
+            "Protein Community",
+            "Public Good School",
+            "ShapeShift DAO",
+            "SolidarityCard",
+            "Storc",
+            "TEC",
+            "The Eden Dao",
+            "Tip Party",
+            "VitaDAO",
+            "Bloom Network",
+            "Earth.fm",
+            "Xplorer Club. Environment.wiki"
+        ],
+        "Project Website":"http:\/\/gitcoindao.com",
+        "Project Description":"Our mission is to build and fund digital public goods. We empower communities of builders to connect and work together to create the future of the open web.\n\n",
+        "Impact Capital":"Social,Intellectual,Cultural",
+        "Impact Roles":"Regenerative Finance,Tooling + Infrastructure,Web3 Onboarding",
+        "Impact Metrics":"http:\/\/gitcoin.co\/results"
+    },
+    {
+        "Project Name":"Giveth",
+        "UID":7.988107636e+17,
+        "Twitter":"givethio",
+        "DAO Friends":[
+            "Cherubs DAO",
+            "Popcorn",
+            "voizdao",
+            "0xdaoApe",
+            "1Hive Gardens",
+            "Meta Gamma Delta DAO ",
+            "Panvala",
+            "Kolektivo",
+            "EthicHub",
+            "GitcoinDAO",
+            "1Hive",
+            "Proof of Humanity",
+            "Geo Web",
+            "Longtail Financial",
+            "Molecule",
+            "TEC",
+            "Bloom Network",
+            "Grassroots Economics",
+            "ShapeShift DAO"
+        ],
+        "DAO Followers":[
+            "0xdaoApe",
+            "1Hive Gardens",
+            "Blood M1n3",
+            "Cherubs DAO",
+            "Endaoment",
+            "ETH Puerto Rico DAO",
+            "Geo Web",
+            "GitcoinDAO",
+            "Kleros",
+            "Kolektivo",
+            "Longtail Financial",
+            "Meta Gamma Delta DAO ",
+            "Molecule",
+            "MOONJELLY",
+            "Panvala",
+            "Proof of Meditation ",
+            "Protein Community",
+            "ShapeShift DAO",
+            "Solid World DAO",
+            "SolidarityCard",
+            "TEC",
+            "VitaDAO",
+            "Bloom Network",
+            "EthicHub",
+            "voizdao"
+        ],
+        "Project Website":"https:\/\/giveth.io",
+        "Project Description":"The Giveth mission is to build a culture of giving that rewards and empowers those who give - to projects, to society, and to the world. We offer an open source donation platform that enables direct, zero-fee P2P donations on the blockchain. We make it easy for nonprofits and other for-good initiatives to start raising funds in crypto, and our long-term vision is to empower them with the web3 knowledge and tooling they need to launch their own regenerative microeconomics.\n\nToday we support projects and donors alike with our GIVbacks program: If a project can prove that it is providing public good, it can get \"verified\". As always, 100% of the donation goes to the project, and for verified projects, we pay the donor with GIV. From feeding the hungry to building open source software, the Giveth platform is home to a wealth of for-good projects raising funds to make a difference in the world!\n",
+        "Impact Capital":"Social,Material,Financial,Living,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/giveth.io\/"
+    },
+    {
+        "Project Name":"Global Unity",
+        "UID":1.258598056e+18,
+        "Twitter":"globalunityorg",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"http:\/\/www.GlobalUnity.org",
+        "Project Description":"Imagine humanity were working as one cohesive organism. Where's the platform to facilitates that? It doesn't exist. We have to build it. But platforms won't be enough. So GU is a both set of platforms and movement building strategy. ",
+        "Impact Capital":"Social",
+        "Impact Roles":"Enabling a New Giving Economy,Collective Impact -- UN style we support other smaller orgs to succeed,Education",
+        "Impact Metrics":"https:\/\/docs.google.com\/spreadsheets\/d\/1f-Ho-UUb9ZC4lX6s6luutt6vwkXfYM_QHg-HNpezpBg\/edit#gid=0"
+    },
+    {
+        "Project Name":"Grassroots Economics",
+        "UID":3044819057.0,
+        "Twitter":"grassecon",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "Giveth",
+            "impactMarket",
+            "Kolektivo",
+            "Longtail Financial",
+            "Panvala",
+            "ReFi DAO",
+            "Return Protocol",
+            "Solid World DAO",
+            "Bloom Network"
+        ],
+        "Project Website":"https:\/\/grassrootseconomics.org\/",
+        "Project Description":"Grassroots Economics is a non-profit foundation that seeks to empower marginalized communities to take charge of their own livelihoods and economic future. We focus on community development through economic empowerment and are dedicated to helping communities realize and share their abundance. While core beneficiaries of our programs include small businesses and people living in informal settlements as well as rural areas, the documentation and tools have been broadly applied worldwide.\n\nOur goal is to improve the lives of those who are most vulnerable.\n\nOur work builds on a rich history of community programs. We have implemented community currency programs in over 45 locations across Kenya and assisted with 2 in South Africa and helped more than 60,000 small businesses, churches and schools take an active role in their own economy and development. We are currently developing programs all over Kenya and providing technical support for those outside Kenya.",
+        "Impact Capital":"Social,Financial,Living,Cultural",
+        "Impact Roles":"Regenerative Finance,Tooling + Infrastructure,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/www.grassrootseconomics.org\/pages\/dashboard.html"
+    },
+    {
+        "Project Name":"Grow Your Own Cloud",
+        "UID":1.04974432e+18,
+        "Twitter":"_gyoc",
+        "DAO Friends":[
+            "Molecule",
+            "Protein Community"
+        ],
+        "DAO Followers":[
+            "Protein Community"
+        ],
+        "Project Website":"https:\/\/growyourown.cloud\/",
+        "Project Description":"Grow Your Own Cloud is a biotech venture developing sustainable DNA data storage in plants and other living organisms. Our solution transforms data centres from carbon creators to carbon absorbers. We are leveraging Web3 to grow a community around our initiative, developing non-fungible plants (NFPs), linking biological organisms to digital NFTs. This technology is developed, tested and ready for launch.",
+        "Impact Capital":"Social,Material,Living,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Regenerative Finance,Descentralized Science,Applied Research",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Gr\u00fcenDAO",
+        "UID":1.495671703e+18,
+        "Twitter":"gruendao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/gruendao.finance\/",
+        "Project Description":"Investing in the carbon economy\nGr\u00fcenDAO is a decentralized ecosystem to create,manage,and invest in digital carbon assets",
+        "Impact Capital":"Social,Material,Financial",
+        "Impact Roles":"Regenerative Finance",
+        "Impact Metrics":"https:\/\/gruendao.finance\/"
+    },
+    {
+        "Project Name":"Haon Earth ",
+        "UID":1.316387923e+18,
+        "Twitter":"haonearth",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/haon.earth",
+        "Project Description":"Haon Earth is determined to inspire the future of Web3 sustainability. The mission starts by rallying a community around a shared goal, mint 10,000 generative sloth NFTs and to plant 10 Million trees. Post mint, Haon Earth will subsequently focus on providing a platform for its members to ideate, prioritise and activate exciting new ideas, initiatives, innovations and companies. Haon will become the non-political construct it believes is required to drive their industry and the planet forward in a positive direction and deliver significant change faster. \n\nWe have recently agreed a strategic partnership with Ecologi, to be our exclusive carbon fulfilment partner and through this, with each sloth NFT that is minted, Haon Earth will commit 75% of these funds to tree planting. Beyond the initial NFTs we want to build our \u201cecoverse\u201d a platform whereby organisations can offset and tokenize their carbon debt, actualising change and helping these businesses become \u201cnet zero.\u201d Our vision for the ecoverse is to make it a carbon offsetting platform for businesses and a simple play and earn game, similar to farmville, with actions taken in game enabling the activation of environmental initiatives with Ecologi for individuals. \n",
+        "Impact Capital":"Social,Material,Living,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed",
+        "Impact Metrics":"https:\/\/ecologi.com\/haonearth"
+    },
+    {
+        "Project Name":"HumanRightsDAO",
+        "UID":1.465870751e+18,
+        "Twitter":"rightsdao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/www.humanrightsdao.org\/",
+        "Project Description":"The first Human Rights DAO to fund, mobilise and run successful campaigns to impact the largest human rights abuses around the world. Bound by the decentralised of the Universal Declaration of Human Rights, as a p2p recognised NFT. Our goals are to achieve Observer Status at the UN, 100 million people holding the NFT and consistent, measurable wins. ",
+        "Impact Capital":"Social,Financial,Intellectual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Collective Impact -- UN style we support other smaller orgs to succeed,Web3 Onboarding",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Intra-Action Dao",
+        "UID":1.500467944e+18,
+        "Twitter":"afetakyaka",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/gitcoin.co\/grants\/4897\/a-local-community-call-to-disaster-prevention-in-t",
+        "Project Description":"Our enthusiasm comes from the social capital we have generated through an informal web of trust relationships that emerged during last year\u2019s community-based disaster response. Having gathered know-how on community building, as well as fire response and prevention which led to the extinguishing of 8 fires within the first 30 minutes, we strive for open collaboration to collectively maintain a climate adaptation scheme for local communities. We hope for nationwide interaction between forest communities to build a collective knowledge base in a network that is holding hands with the global community of donors and volunteers in times of crises.",
+        "Impact Capital":"Social,Material,Financial,Living,Intellectual,Cultural",
+        "Impact Roles":"Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Kleros",
+        "UID":8.975366422e+17,
+        "Twitter":"kleros_io",
+        "DAO Friends":[
+            "Proof of Humanity",
+            "Giveth"
+        ],
+        "DAO Followers":[
+            "Artizen",
+            "Endaoment",
+            "Molecule",
+            "Proof of Humanity",
+            "Protein Community",
+            "SolidarityCard"
+        ],
+        "Project Website":"http:\/\/kleros.io",
+        "Project Description":"Kleros is an open source online dispute resolution protocol which uses blockchain, crowdsourcing and game theoretical economic incentives to fairly adjudicate disputes. Its applications range from prediction markets to reverse Turing tests (Proof of Humanity).",
+        "Impact Capital":"Social,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Descentralized Science,New Data Economy (eg. Ocean Protocol),Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":"https:\/\/klerosboard.com\/"
+    },
+    {
+        "Project Name":"Kleros",
+        "UID":8.975366422e+17,
+        "Twitter":"kleros_io",
+        "DAO Friends":[
+            "Proof of Humanity",
+            "Giveth"
+        ],
+        "DAO Followers":[
+            "Artizen",
+            "Endaoment",
+            "Molecule",
+            "Proof of Humanity",
+            "Protein Community",
+            "SolidarityCard"
+        ],
+        "Project Website":"https:\/\/kleros.io\/",
+        "Project Description":"Kleros is a decentralized arbitration service for the disputes of the new economy.",
+        "Impact Capital":"Social",
+        "Impact Roles":"Tooling + Infrastructure",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Kleros",
+        "UID":8.975366422e+17,
+        "Twitter":"kleros_io",
+        "DAO Friends":[
+            "Proof of Humanity",
+            "Giveth"
+        ],
+        "DAO Followers":[
+            "Artizen",
+            "Endaoment",
+            "Molecule",
+            "Proof of Humanity",
+            "Protein Community",
+            "SolidarityCard"
+        ],
+        "Project Website":"https:\/\/kleros.io\/",
+        "Project Description":"The oldest decentralized arbitration protocol on Ethereum, producing decisions which are enforceable on-chain. It constitutes a primitive for data curation (eg. token registry), content moderation, subjective oracles (eg. prediction markets resolution, assessment of insurance claims, peer reviews), escrows, decentralized governance of smart contracts etc. The design space is still being explored.",
+        "Impact Capital":"Social,Material,Intellectual,Experiential",
+        "Impact Roles":"Enabling a New Giving Economy,Tooling + Infrastructure",
+        "Impact Metrics":"https:\/\/klerosboard.com"
+    },
+    {
+        "Project Name":"KlimaDAO",
+        "UID":1.400139779e+18,
+        "Twitter":"klimadao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Artizen",
+            "Astral Protocol",
+            "Blood M1n3",
+            "Carbon Captors ",
+            "ClimateDAO ",
+            "DeveloperDAO",
+            "Longtail Financial",
+            "Molecule",
+            "MOONJELLY",
+            "Protein Community",
+            "ReFi DAO",
+            "Return Protocol",
+            "Socialstack",
+            "Solid World DAO",
+            "The Eden Dao",
+            "VitaDAO",
+            "Aera Force",
+            "voizdao",
+            "Xplorer Club. Environment.wiki"
+        ],
+        "Project Website":"http:\/\/klimadao.finance",
+        "Project Description":"The core of the KlimaDAO mission is also the highest imperative of our time: to create a more sustainable future. We strive to enable people and nature to thrive together. We apply the same value of sustainability within the DAO. We prioritize effort that will allow the DAO to run smoothly and efficiently in the long term, even if it means taking more time and upfront effort. We take pride in our work and are focused on the end goals, rather than the challenges we are currently facing. By creating a strong, solid foundation we will be able to face any difficulties that come our way. We aim to be agile and adaptive so that our impact can persevere through any global advancements.",
+        "Impact Capital":"Material,Financial,Living,Cultural",
+        "Impact Roles":"Regenerative Finance",
+        "Impact Metrics":"https:\/\/dune.xyz\/Cujowolf\/Klima-DAO"
+    },
+    {
+        "Project Name":"Kolektivo",
+        "UID":1.143047629e+18,
+        "Twitter":"kolektivo",
+        "DAO Friends":[
+            "ReFi DAO",
+            "Astral Protocol",
+            "EthicHub",
+            "1Hive",
+            "Panvala",
+            "Giveth",
+            "Bloom Network",
+            "Grassroots Economics"
+        ],
+        "DAO Followers":[
+            "Cohere",
+            "ETH Puerto Rico DAO",
+            "Geo Web",
+            "Giveth",
+            "MOONJELLY",
+            "Panvala",
+            "Protein Community",
+            "ReFi DAO",
+            "Return Protocol",
+            "Solid World DAO",
+            "Bloom Network"
+        ],
+        "Project Website":"https:\/\/www.kolektivo.co\/",
+        "Project Description":"Kolektivo is developing a framework for local communities to create, manage and own their own regenerative economies. Kolektivo's first MVP will be released in Q3 of 2022 on the Celo network and run a large-scale pilot on the Caribbean island of Cura\u00e7ao.",
+        "Impact Capital":"Social,Material,Financial,Living,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Web3 Onboarding,Education,New Data Economy (eg. Ocean Protocol),Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":"https:\/\/explorer.fuse.io\/token\/0x11eFffd8f314e175CB74e98BB359B86874F9c6a6\/token-transfers"
+    },
+    {
+        "Project Name":"Kumo Earth",
+        "UID":1.479829555e+18,
+        "Twitter":"kumo_dao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "Carbon Captors ",
+            "The Eden Dao"
+        ],
+        "Project Website":"http:\/\/kumo.earth",
+        "Project Description":"Kumo is building the 1st Carbon-Backed StableCoin pegged to USD. \n\nCarbon Currency acts as vault to carbon credit. Every transaction becomes climate action.",
+        "Impact Capital":"Financial",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"LYNX",
+        "UID":1.477896501e+18,
+        "Twitter":"lynx_technology",
+        "DAO Friends":[
+            "Meta Gamma Delta DAO ",
+            "LabDAO",
+            "VitaDAO",
+            "Foresight Institute DAO"
+        ],
+        "DAO Followers":[
+            "Meta Gamma Delta DAO ",
+            "Molecule"
+        ],
+        "Project Website":"http:\/\/phas3.io\/LYNX",
+        "Project Description":"Create and own your digital clone with LYNX. Combine data from different wearables to gain advanced insights into your individual health and wellbeing.\n1. Gain cutting-edge mind-body insights through the holistic analysis of data from multiple devices\n2. No third-party will ever see or own your raw biometric data again\n3. Choose third-parties to interact with for personalised, safe and rewarding experiences",
+        "Impact Capital":"Living,Intellectual,Experiential",
+        "Impact Roles":"Descentralized Science,Tooling + Infrastructure,Web3 Onboarding",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"LabDAO",
+        "UID":1.459210292e+18,
+        "Twitter":"lab_dao",
+        "DAO Friends":[
+            "Molecule",
+            "VitaDAO",
+            "DeveloperDAO"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Cherubs DAO",
+            "Foresight Institute DAO",
+            "LYNX",
+            "Molecule",
+            "VitaDAO"
+        ],
+        "Project Website":"https:\/\/www.labdao.com\/",
+        "Project Description":"An open, community-run network of wet & dry laboratory services to advance progress in the life sciences. \nThe LabDAO community gathers around an open peer-to-peer marketplace, openlab, on which computational and wet-lab services can be exchanged. The community supports the development of open-source applications on the marketplace and its maintenance. ",
+        "Impact Capital":"Material,Financial,Intellectual",
+        "Impact Roles":"Descentralized Science,Tooling + Infrastructure,New Data Economy (eg. Ocean Protocol)",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"LaborDAO",
+        "UID":1.488298231e+18,
+        "Twitter":"thelabordao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"http:\/\/thelabordao.com",
+        "Project Description":"LaborDAO is the first decentralized community to support workers who want to organize, strike and collectively bargain. LaborDAO will use Web3 as a coordination layer and will support workers in their efforts to gain respect, dignity and fair pay.",
+        "Impact Capital":"Social,Financial,Living,Intellectual",
+        "Impact Roles":"Enabling a New Giving Economy,Collective Impact -- UN style we support other smaller orgs to succeed,Web3 Onboarding,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/mirror.xyz\/0x41E84f0e4417eDf440DDc2558Df13877552Db39A\/C7befGqsLiT9Z4VSLT-bqpacg1nxoqpnOq3Q7elXo9U"
+    },
+    {
+        "Project Name":"Lonely Rocks",
+        "UID":1.480681021e+18,
+        "Twitter":"lonelyrocksdao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":null,
+        "Project Description":"Lonely Rocks is an artist-run decentralized autonomous organization (DAO) which uses tokenized voting to curate media art exhibitions. \n\nEach month, artists in the community are invited to submit their self-portraits for consideration. Works which are unanimously approved by members join the Lonely.Rocks collection.\n\nThe DAO is a vehicle for exhibiting work and supporting artists who belong to the organization. Lonely.rocks is a collective art project, artistic event, and culture club. Members seek to present the very best works of self-representation from contemporary artists via decentralization tech.\n\nThe first stalemate brings our project to its conclusion. Lonely Rocks here embodies the mission which unites us: a revolving show of artists communing in self-aggrandizement.\n",
+        "Impact Capital":"Cultural",
+        "Impact Roles":"",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Longtail Financial",
+        "UID":1.199433426e+18,
+        "Twitter":"longtailfintech",
+        "DAO Friends":[
+            "Panvala",
+            "ClimateDAO ",
+            "DeveloperDAO",
+            "1Hive Gardens",
+            "KlimaDAO",
+            "EthicHub",
+            "GitcoinDAO",
+            "1Hive",
+            "Giveth",
+            "Endaoment",
+            "TEC",
+            "Grassroots Economics",
+            "ShapeShift DAO"
+        ],
+        "DAO Followers":[
+            "Giveth",
+            "TEC"
+        ],
+        "Project Website":"http:\/\/longtailfinancial.com",
+        "Project Description":"LTF is a the Apple of Regenerative Finance. We are developing an unstoppable brand that is attracting top mathematicians, engineers, scientists, writers, designers, and entrepreneurs into the space of DAO and token creation for public goods. Our token engineers are building the highest impact and most solarpunk projects in the DAO space today. We are two-time winners of sovereign nature initiative hackathon for our projects, Bathhouse Canada, and Centree. Bathhouse Canada is saving old growth forests by creating world class bathhouse culture in the ancient forests of Canada. Centree is a fork of KlimaDAO which finances the protection of old growth forests by turning them into investable, living assets. Longtail Financial is also a founding member of the Crypto Commons to Save the bees, a project in collaboration with The Commons Stack, Bancor, Senary Blockchain Ventures, and Fungi Perfecti. The CCSB is lead by Paul Stamets, who discovered the connection between deforestation and colony collapse disorder https:\/\/www.nature.com\/articles\/s41598-018-32194-8. We are also deeply partnered with many high impact organizations such as The Token Engineering Commons, The Token Engineering Academy, PrimeDAO, 40acresDAO, and many more. Longtail Financial's core thesis is to bring balance to the world via the cultivation of leverage accumulation feedback loops for public goods. ",
+        "Impact Capital":"Social,Material,Financial,Living,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Descentralized Science,Collective Impact -- UN style we support other smaller orgs to succeed,Applied Research,Tooling + Infrastructure,Web3 Onboarding,Education,New Data Economy (eg. Ocean Protocol),Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":"https:\/\/dune.xyz\/tecommons\/TECommons,"
+    },
+    {
+        "Project Name":"MOONJELLY",
+        "UID":1.365378105e+18,
+        "Twitter":"wearemoonjelly",
+        "DAO Friends":[
+            "Return Protocol",
+            "ReFi DAO",
+            "GitcoinDAO",
+            "TEC",
+            "Kolektivo",
+            "Dream DAO",
+            "Gaia",
+            "KlimaDAO",
+            "The Eden Dao",
+            "ClimateDAO ",
+            "Avano",
+            "Giveth"
+        ],
+        "DAO Followers":[
+            "Avano",
+            "ReFi DAO",
+            "Return Protocol",
+            "Solid World DAO",
+            "Bloom Network"
+        ],
+        "Project Website":"http:\/\/www.moonjelly.io",
+        "Project Description":"Founded by a team of proven pioneers within ocean impact, science, storytelling, creative and web3 on a mission to decentralize global ocean conservation, Moonjelly is bringing these technological advancements to the ocean - boosting funder donations, verifying impact project outcomes, and developing education, research and innovation within our global community. \n\n\n",
+        "Impact Capital":"Social,Material,Financial,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Descentralized Science,Collective Impact -- UN style we support other smaller orgs to succeed,Applied Research,Tooling + Infrastructure,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Menthol Protocol",
+        "UID":1.402925484e+18,
+        "Twitter":"mentholprotocol",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "Return Protocol"
+        ],
+        "Project Website":"https:\/\/www.mentholprotocol.com",
+        "Project Description":"Menthol Protocol is a no-loss, no-code, decentralized automated sustainability protocol that will automatically power user or dApp transactions with verified renewable energy and carbon credits from around the world. Users can also offset their off-chain emissions and\/or energy consumption to make the world even cooler!",
+        "Impact Capital":"Financial,Living",
+        "Impact Roles":"Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Meta Gamma Delta DAO ",
+        "UID":1.228861749e+18,
+        "Twitter":"metagammadelta",
+        "DAO Friends":[
+            "LYNX",
+            "Giveth",
+            "GitcoinDAO",
+            "Panvala"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Endaoment",
+            "Giveth",
+            "LYNX",
+            "Molecule",
+            "Panvala",
+            "PR1S0N Art",
+            "Bloom Network"
+        ],
+        "Project Website":"http:\/\/Metagammadelta.com",
+        "Project Description":"Meta Gamma Delta DAO is an inclusive and empowering society supporting women-led projects in the blockchain space. The DAO has grown to 100+ members and has distributed grants focused on defi, NFTs, crypto education, and building for diversity. MGD has also launched the $1M Fund that will empower a fellowship program that will onboard women into web3 and create opportunities for those looking to work and thrive in this space. Get in touch via Twitter and the MGD website to learn more! ",
+        "Impact Capital":"Social,Financial",
+        "Impact Roles":"Enabling a New Giving Economy,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/app.daohaus.club\/dao\/0x89\/0x93fa3b9d57bcddda4ed2ee40831f5859a9c417b7"
+    },
+    {
+        "Project Name":"Molecule",
+        "UID":9.810355859e+17,
+        "Twitter":"molecule_dao",
+        "DAO Friends":[
+            "LYNX",
+            "Atoms",
+            "LabDAO",
+            "KlimaDAO",
+            "Meta Gamma Delta DAO ",
+            "GitcoinDAO",
+            "VitaDAO",
+            "Giveth",
+            "Therapoid",
+            "Foresight Institute DAO",
+            "Kleros"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Cherubs DAO",
+            "Foresight Institute DAO",
+            "Giveth",
+            "Grow Your Own Cloud",
+            "LabDAO",
+            "Molecule",
+            "Protein Community",
+            "VitaDAO"
+        ],
+        "Project Website":"https:\/\/www.molecule.to\/",
+        "Project Description":"Molecule is a decentralized biotech protocol building a web3 marketplace for research-related IP and scalable frameworks to build biotech DAOs. They enable quick and easy funding for academics and biotech companies globally, while enabling patient, researcher, and investor communities to directly fund, govern, and own research-related IP. Molecule democratizes biopharma research and development.",
+        "Impact Capital":"Financial,Intellectual",
+        "Impact Roles":"Descentralized Science",
+        "Impact Metrics":"https:\/\/etherscan.io\/address\/0x270f6ef8d01e80725e5d32589178b8a041021a45"
+    },
+    {
+        "Project Name":"Molecule",
+        "UID":1.427320063e+18,
+        "Twitter":"molecule_to",
+        "DAO Friends":[
+            "Molecule"
+        ],
+        "DAO Followers":[
+            "VitaDAO"
+        ],
+        "Project Website":"https:\/\/www.molecule.to\/",
+        "Project Description":"Molecule is a decentralized biotech protocol building a web3 marketplace for research-related IP and scalable frameworks to build biotech DAOs. They enable quick and easy funding for academics and biotech companies globally, while enabling patient, researcher, and investor communities to directly fund, govern, and own research-related IP. Molecule democratizes biopharma research and development.",
+        "Impact Capital":"Financial,Intellectual",
+        "Impact Roles":"Descentralized Science",
+        "Impact Metrics":"https:\/\/etherscan.io\/address\/0x270f6ef8d01e80725e5d32589178b8a041021a45"
+    },
+    {
+        "Project Name":"Montaia",
+        "UID":2848268970.0,
+        "Twitter":"montaialife",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"http:\/\/montaia.com",
+        "Project Description":"MontaiaDAO is using the coordination tools of web3 to create transformative experiences of connection with self, community, and Earth. In the midst of our converging planetary crises and exponential technology, maintaining relationship with each of these three pillars is critical for our ability to individually and collectively respond. We partner with wilderness to create humans capable of building our solarpunk future.",
+        "Impact Capital":"Social,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Education",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"NFTree Haus",
+        "UID":1.47591766e+18,
+        "Twitter":"nftreehaus",
+        "DAO Friends":[
+            "ReFi DAO",
+            "The Eden Dao",
+            "Avano"
+        ],
+        "DAO Followers":[
+            "Avano",
+            "ReFi DAO",
+            "Return Protocol",
+            "Solid World DAO"
+        ],
+        "Project Website":"http:\/\/nftreehaus.com",
+        "Project Description":"NFTree Haus fights climate change by planting trees with creators. Each physical tree is represented by an NFT. Creators can plant these tree\u2019s and fans can buy then. These tree\u2019s are being planted in lower income neighborhoods to increase tree equity. ",
+        "Impact Capital":"Social,Living,Intellectual,Experiential",
+        "Impact Roles":"Regenerative Finance,Web3 Onboarding,Education",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Natives in Tech",
+        "UID":1.076879941e+18,
+        "Twitter":"nativesintech",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/nativesintech.org\/",
+        "Project Description":"Cultivate a tech ecosystem of Native technologists crafting free and open source technology for Native communities.",
+        "Impact Capital":"Social,Material,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Tooling + Infrastructure,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"New Atlantis",
+        "UID":79387828.0,
+        "Twitter":"newatlantis",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"http:\/\/Newatlantis.io",
+        "Project Description":"New Atlantis is a Decentralized Autonomous Organization (DAO) that exists to enroll a global community to accelerate regeneration of the ocean ecosystems and help save our planet from the climate crisis",
+        "Impact Capital":"Social,Financial,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Regenerative Finance,Descentralized Science,Collective Impact -- UN style we support other smaller orgs to succeed,Applied Research,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"PR1S0N Art",
+        "UID":1.395776239e+18,
+        "Twitter":"pr1s0nart",
+        "DAO Friends":[
+            "Astral Protocol",
+            "ClimateDAO ",
+            "Meta Gamma Delta DAO ",
+            "Bloom Network"
+        ],
+        "DAO Followers":[
+            "Astral Protocol"
+        ],
+        "Project Website":"http:\/\/pr1s0n.art",
+        "Project Description":"Digital art which pays back prisoner debt, restoring justice and the dignity of returning citizens.\n\nJustice involved people incur financial obligations as a result of their history and incarceration, like restitution payments for victims, court fees, and driver's license reinstatement fees. Upon release, 88% of states re-incarcerate people for failure to pay back these debts, accounting for roughly 30% of recidivism in the US. \n\nWe collect, digitize, and sell artwork made in prisons. Smart contracts ensure the proceeds can only pay very specific debts and fines, like restitution and court fees. We do this in a verifiable and transparent way so there is no question of the project\u2019s activities.",
+        "Impact Capital":"Social,Material,Financial,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"PactDAO",
+        "UID":1.257134623e+18,
+        "Twitter":"pactdao",
+        "DAO Friends":[
+            "ClimateDAO "
+        ],
+        "DAO Followers":[
+            "ClimateDAO "
+        ],
+        "Project Website":"https:\/\/mirror.xyz\/pactcollective.eth\/crowdfunds\/0x15BBCBC2Eae5C70A4473DB7dA6344dA291ce7E5e",
+        "Project Description":"Pact is a NYC-based mutual aid DAO. Our mission is to support, sustain, and grow the presence of mutual aid in our city through decentralized technology and organizing. We're doing this by forming a coalition with mutual aid organizations that are already present in our city and later are looking to build a peer-to-peer reciprocity network of goods, skills and services backed by a social token. ",
+        "Impact Capital":"Social,Material,Financial,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Panvala",
+        "UID":1.016099989e+18,
+        "Twitter":"panvalahq",
+        "DAO Friends":[
+            "1Hive",
+            "Giveth",
+            "Kolektivo",
+            "Meta Gamma Delta DAO ",
+            "GitcoinDAO",
+            "Bloom Network",
+            "Grassroots Economics"
+        ],
+        "DAO Followers":[
+            "AYOWECCA",
+            "Geo Web",
+            "GitcoinDAO",
+            "Giveth",
+            "Kolektivo",
+            "Longtail Financial",
+            "Meta Gamma Delta DAO ",
+            "TEC",
+            "Bloom Network"
+        ],
+        "Project Website":"https:\/\/panvala.com\/",
+        "Project Description":"Panvala powers communities with a share of its community endowment & connections to a vast network of like-minded individuals & projects. Our collective action shifts value that flows to middlemen like Facebook to our communities instead.",
+        "Impact Capital":"Social,Financial,Experiential,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"ParadigmStates+",
+        "UID":1.493348607e+18,
+        "Twitter":"paradigmstates",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"http:\/\/paradigmstates.xyz",
+        "Project Description":"ParadigmStates is a resource for creating healthier Web3 communities. Through empathy, reflection, and a willingness to stay present during times of discomfort, it is possible to collectively dismantle social systems rooted in colonialism, heteronormativity, ableism, capitalism, and misogyny. We strive to amplify the lived experience of any form of internalized oppression in a way that facilitates learning, healing, and personal growth.\n\nParadigmStates started as Jovian Network in June 2021, a group that came together to consider the macro social impacts of DAOs on lived human experience. We progressed from a think tank on DAOs to an impact network focused on elevating humanist concerns to the forefront of technological expansion. ",
+        "Impact Capital":"Social,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Applied Research,Web3 Onboarding,Education,Identity",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Parcel.money",
+        "UID":1.271569632e+18,
+        "Twitter":"parcelhq",
+        "DAO Friends":[
+            "VitaDAO"
+        ],
+        "DAO Followers":[
+            "Code4rena",
+            "Protein Community"
+        ],
+        "Project Website":"http:\/\/parcel.money",
+        "Project Description":"A suite of tools to scale DAO financial operations and empower DAO contributors.",
+        "Impact Capital":"Financial",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"PizzaDAO",
+        "UID":1.354998647e+18,
+        "Twitter":"pizza_dao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "ClimateDAO "
+        ],
+        "Project Website":"https:\/\/rarepizzas.com",
+        "Project Description":"PizzaDAO exists to serve pizza\u2019s interests. So we ask ourselves, what does pizza want? To be eaten! So how can we help it to be eaten? By making sure it\u2019s delicious and affordable. Or even\u2026 free! So, to that end, we have the following goals:\n-Throw a global pizza party, \u201cFree Pizza Day\u201d, every Bitcoin Pizza Day (May 22) in honor of Laszlo Hanyecz\u2019s purchase of 2 pizzas for 10,000 BTC on May 22nd, 2010.\n-Build the world\u2019s largest pizza community by inviting pizza lovers, pizzaioli, artists, developers, and dreamers to join.\n-Build Open Pizza, the first independent open source pizza francheese.\n-Tokenize Every Pizzeria: Banks don\u2019t have the time, will, or energy to properly serve small businesses, whereas communities know from their daily lives which businesses are crucial to the function of their neighborhoods. Because of that, all small businesses should be community owned. Tokenization is the easiest way to accomplish this on a massive scale.",
+        "Impact Capital":"Social,Material,Financial,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"http:\/\/payments.rarepizzas.com"
+    },
+    {
+        "Project Name":"Popcorn",
+        "UID":1.366906648e+18,
+        "Twitter":"popcorn_dao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Giveth",
+            "Protein Community",
+            "Solid World DAO",
+            "TEC"
+        ],
+        "Project Website":null,
+        "Project Description":"Popcorn is a dao focused on defi for good while also becoming carbon negative ",
+        "Impact Capital":"Social,Financial,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Descentralized Science,Collective Impact -- UN style we support other smaller orgs to succeed,Applied Research,Tooling + Infrastructure,Web3 Onboarding,Education,New Data Economy (eg. Ocean Protocol),Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Proof of Humanity",
+        "UID":1.309423402e+18,
+        "Twitter":"proofofhumanity",
+        "DAO Friends":[
+            "TEC",
+            "Kleros",
+            "GitcoinDAO"
+        ],
+        "DAO Followers":[
+            "Artizen",
+            "Endaoment",
+            "ETH Puerto Rico DAO",
+            "Giveth",
+            "Kleros",
+            "SolidarityCard"
+        ],
+        "Project Website":"https:\/\/www.proofofhumanity.id\/",
+        "Project Description":"Proof of Humanity, is a social identity system on ethereum, Is the person with whom you are speaking human or an AI bot ?a system combining webs of trust, with reverse Turing tests, and dispute resolution to create a sybil-proof list of humans, transforming how you interact with financial tools and defi apps. Using a combination of cryptoeconomics and local trust proof of humanity can become the internet social backbone. Once you get registered you get streamed in real time $UBI  token (universal basic income).",
+        "Impact Capital":"Social,Financial,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding,Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":"https:\/\/api.poh.dev\/docs\/static\/index.html#\/status\/get_status"
+    },
+    {
+        "Project Name":"Proof of Meditation ",
+        "UID":1.495480837e+18,
+        "Twitter":"om_proof",
+        "DAO Friends":[
+            "Giveth"
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":null,
+        "Project Description":"This is a DAO that provides a playful concept for communities to reward members who invest time & efforts into cultivating a sense of well-being. The Proof of Meditation is a dApp that allows users to create appealing pixel art works (NFTs) that display their meditation sessions, linking heart beat data to the pixels in the NFTs created after each session. ",
+        "Impact Capital":"Financial,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Protein Community",
+        "UID":11127012.0,
+        "Twitter":"protein",
+        "DAO Friends":[
+            "Molecule",
+            "Dream DAO",
+            "The Eden Dao",
+            "Grow Your Own Cloud",
+            "Parcel.money",
+            "impactMarket",
+            "Artizen",
+            "Kolektivo",
+            "1Hive Gardens",
+            "Popcorn",
+            "KlimaDAO",
+            "1Hive",
+            "GitcoinDAO",
+            "DeveloperDAO",
+            "Giveth",
+            "Socialstack",
+            "ClimateDAO ",
+            "Cabin",
+            "TEC",
+            "Astral Protocol",
+            "Kleros"
+        ],
+        "DAO Followers":[
+            "Artizen",
+            "Cabin",
+            "ClimateDAO ",
+            "Cohere",
+            "DeveloperDAO",
+            "Grow Your Own Cloud"
+        ],
+        "Project Website":"http:\/\/protein.xyz",
+        "Project Description":"Protein Community is a place where people and ideas grow. For many, the Web2 models for growth have become exploitative and extractive, often at the expense of the user or communities who the product claims to represent and serve. While Web3 has the potential to create a fairer and more equitable framework for growth, it\u2019s what we do with it which ultimately dictates the impact it has on society.\n\nSo, if Protein Community is a place for people and ideas to grow, it's important to explore the different models of growth which are both positive and negative for society today. And before we can start exploring how Web3 technologies can be used for good growth; we need to explore what good and bad growth means to our community. More here: https:\/\/protein.mirror.xyz\/O7PPbxREjCGKaYseCBssPYf9T-Kv8NwlsP3pDN1Kc5k",
+        "Impact Capital":"Social,Material,Living,Intellectual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Public Good School",
+        "UID":1.482443679e+18,
+        "Twitter":"publicgood_s",
+        "DAO Friends":[
+            "GitcoinDAO",
+            "DeveloperDAO"
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/twitter.com\/PublicGood_S",
+        "Project Description":"Public Good School is growing the next generation of leaders, stewards, and executive directors to help organizations build a better world. We place people entering the web3 public goods space on work rotations at Public Goods organizations so they can gain the connections and experience to take the helm and help founders and communities achieve visions of building a better world.",
+        "Impact Capital":"Social,Experiential,Cultural",
+        "Impact Roles":"Collective Impact -- UN style we support other smaller orgs to succeed,Web3 Onboarding,Education,Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"ReFi DAO",
+        "UID":1.466503752e+18,
+        "Twitter":"refidaoist",
+        "DAO Friends":[
+            "NFTree Haus",
+            "SuperBenefit",
+            "Kolektivo",
+            "Return Protocol",
+            "MOONJELLY",
+            "Avano",
+            "Cohere",
+            "Cabin",
+            "KlimaDAO",
+            "ClimateDAO ",
+            "The Eden Dao",
+            "Bloom Network",
+            "Grassroots Economics"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Avano",
+            "Blood M1n3",
+            "Carbon Captors ",
+            "Cherubs DAO",
+            "ClimateDAO ",
+            "Cohere",
+            "dClimate",
+            "Kolektivo",
+            "MOONJELLY",
+            "NFTree Haus",
+            "Return Protocol",
+            "Solid World DAO",
+            "The Eden Dao",
+            "Bloom Network",
+            "Earth.fm",
+            "Xplorer Club. Environment.wiki"
+        ],
+        "Project Website":"http:\/\/ReFiDAO.com",
+        "Project Description":"We are creating a meta coordination layer to help the ReFi movement scale meaningful climate impact using the power of web3. ",
+        "Impact Capital":"Social,Financial,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Return Protocol",
+        "UID":1.486905896e+18,
+        "Twitter":"returnprotocol",
+        "DAO Friends":[
+            "dClimate",
+            "Clime DAO",
+            "Gaia",
+            "Solid World DAO",
+            "Aera Force",
+            "MOONJELLY",
+            "ClimateDAO ",
+            "The Eden Dao",
+            "Kolektivo",
+            "KlimaDAO",
+            "Avano",
+            "Menthol Protocol",
+            "ReFi DAO",
+            "Bloom Network",
+            "Grassroots Economics",
+            "NFTree Haus"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Avano",
+            "Blood M1n3",
+            "Carbon Captors ",
+            "ClimateDAO ",
+            "MOONJELLY",
+            "ReFi DAO",
+            "Solid World DAO",
+            "Aera Force",
+            "Xplorer Club. Environment.wiki"
+        ],
+        "Project Website":"https:\/\/www.producthunt.com\/upcoming\/return-protocol",
+        "Project Description":"Return Protocol is on a mission to accelerate the mass adoption of regenerative finance (ReFi), starting with an automated offsetting process. Allowing users to passively offset their on-chain activity for every transaction across any blockchain. \n\nThe journey to passive offsetting is simple:\n1) Store the Return NFT in your wallet.\n2) Set your offsetting preferences on the Return dashboard.\n3) Transact as normal.\n\nThis will allow for the mass onboarding of users to embedded regeneration. We no longer have to wait for L1's to become environmentally neutral, now the power is in the hands of the users. Which, combined with simple education on the different types of environmental tokens and underlying projects within the Return dashboard, will empower everyone to take control and demand the sustainability our planet so badly needs.",
+        "Impact Capital":"Material,Intellectual,Experiential",
+        "Impact Roles":"Regenerative Finance,Tooling + Infrastructure,Web3 Onboarding,Education",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"ShapeShift DAO",
+        "UID":2561715571.0,
+        "Twitter":"shapeshift_io",
+        "DAO Friends":[
+            "GitcoinDAO",
+            "Giveth"
+        ],
+        "DAO Followers":[
+            "Decent DAO",
+            "Giveth",
+            "Longtail Financial",
+            "UltraSound Merch Supply Chain",
+            "EthicHub"
+        ],
+        "Project Website":"http:\/\/shapeshift.com",
+        "Project Description":"ShapeShift is the free, open-source, and community-owned interface to the decentralized universe, working to enable billions to achieve financial sovereignty. Buy, sell, send, receive, trade, and earn yield on your crypto across a growing number of protocols and chains with no added fees ever.",
+        "Impact Capital":"Material,Financial,Experiential",
+        "Impact Roles":"Tooling + Infrastructure,Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/0xtracker.com\/apps\/shapeshift"
+    },
+    {
+        "Project Name":"Socialstack",
+        "UID":1.347866128e+18,
+        "Twitter":"trysocialstack",
+        "DAO Friends":[
+            "Endaoment",
+            "KlimaDAO"
+        ],
+        "DAO Followers":[
+            "Endaoment",
+            "Protein Community"
+        ],
+        "Project Website":"https:\/\/socialstack.co",
+        "Project Description":"An easy to use social token platform built for non-crypto native communities. We work with organizations and creators regardless of where they're at along their impact journey and assist them in incorporating impact to earn incentives using their token to incentivize impact action from their community members.",
+        "Impact Capital":"Social,Intellectual,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding",
+        "Impact Metrics":"https:\/\/community.socialstack.co\/"
+    },
+    {
+        "Project Name":"Solid World DAO",
+        "UID":1.463495891e+18,
+        "Twitter":"solidworlddao",
+        "DAO Friends":[
+            "NFTree Haus",
+            "MOONJELLY",
+            "Cherubs DAO",
+            "Blood M1n3",
+            "Xplorer Club. Environment.wiki",
+            "AntidoteDAO",
+            "Carbon Captors ",
+            "Cohere",
+            "Return Protocol",
+            "1Hive Gardens",
+            "EthicHub",
+            "1Hive",
+            "Kolektivo",
+            "KlimaDAO",
+            "Avano",
+            "Giveth",
+            "Popcorn",
+            "dClimate",
+            "ClimateDAO ",
+            "impactMarket",
+            "ReFi DAO",
+            "Astral Protocol",
+            "The Eden Dao",
+            "Bloom Network",
+            "Grassroots Economics",
+            "Dream DAO"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Avano",
+            "Carbon Captors ",
+            "ClimateDAO ",
+            "Return Protocol",
+            "Bloom Network",
+            "Xplorer Club. Environment.wiki"
+        ],
+        "Project Website":"http:\/\/solid.world",
+        "Project Description":"Solid World DAO is building a carbon marketplace that will fund new carbon sequestration projects. We will buy per-certified credits from viable carbon projects to help them get started, since the traditional process can take up to 5 years to fund projects. We are \"funding the future of planet earth.\" ",
+        "Impact Capital":"Social,Material,Financial,Living",
+        "Impact Roles":"Regenerative Finance",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"SolidarityCard",
+        "UID":1.242354096e+18,
+        "Twitter":"solcardorg",
+        "DAO Friends":[
+            "Giveth",
+            "Kleros",
+            "Proof of Humanity",
+            "Tip Party",
+            "GitcoinDAO"
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/solcard.org",
+        "Project Description":"SolidarityCard humanizes and supports people in need through authentic conversations and transparent donations.",
+        "Impact Capital":"Social,Financial,Experiential,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Web3 Onboarding,Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"SolidarityCard",
+        "UID":1.242354096e+18,
+        "Twitter":"solcardorg",
+        "DAO Friends":[
+            "Giveth",
+            "Kleros",
+            "Proof of Humanity",
+            "Tip Party",
+            "GitcoinDAO"
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/solcard.org",
+        "Project Description":"SolidarityCard humanizes and supports people in need through authentic conversations and transparent donations.",
+        "Impact Capital":"Social,Financial,Experiential,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Applied Research,Web3 Onboarding,Education,Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"SproutUp",
+        "UID":1.181854346e+18,
+        "Twitter":"sproutupapp",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/sproutup.app\/",
+        "Project Description":"The donation platform for web3 charity founders. Turn your good deeds into NFTs and earn crypto donations.",
+        "Impact Capital":"Financial",
+        "Impact Roles":"Enabling a New Giving Economy,Tooling + Infrastructure",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Storc",
+        "UID":1.335340564e+18,
+        "Twitter":"storcswap",
+        "DAO Friends":[
+            "GitcoinDAO"
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/wrap-dapp-axu3olemh-storc.vercel.app\/",
+        "Project Description":"Storc bridges crypto with stable store credit to bridge the web3 infrastructure with closed networks for practical purposes. ",
+        "Impact Capital":"Social,Material,Financial",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure,Web3 Onboarding,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"SuperBenefit",
+        "UID":1.425157729e+18,
+        "Twitter":"superbenefitdao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "ClimateDAO ",
+            "ReFi DAO"
+        ],
+        "Project Website":"http:\/\/superbenefit.org",
+        "Project Description":"Make Better Faster. An initiative to embed universal abundance into the infrastructure of society and accelerate the arrival of a better future.",
+        "Impact Capital":"Social,Financial,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Collective Impact -- UN style we support other smaller orgs to succeed,Tooling + Infrastructure",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"TEC",
+        "UID":1.316549542e+18,
+        "Twitter":"tecmns",
+        "DAO Friends":[
+            "voizdao",
+            "VitaDAO",
+            "Tip Party",
+            "0xdaoApe",
+            "Popcorn",
+            "Panvala",
+            "Longtail Financial",
+            "1Hive Gardens",
+            "Bloom Network",
+            "Giveth",
+            "GitcoinDAO",
+            "1Hive"
+        ],
+        "DAO Followers":[
+            "0xdaoApe",
+            "1Hive Gardens",
+            "Cherubs DAO",
+            "ClimateDAO ",
+            "Geo Web",
+            "Giveth",
+            "Longtail Financial",
+            "MOONJELLY",
+            "Proof of Humanity",
+            "Protein Community",
+            "The Eden Dao",
+            "Tip Party",
+            "VitaDAO",
+            "Bloom Network",
+            "voizdao"
+        ],
+        "Project Website":"https:\/\/tecommons.org\/",
+        "Project Description":"Mission: \nOur goal is to become a Schelling Point for the token engineering community.\nOur economic layer will fund projects that discover, develop and proliferate the best practices for engineering safe tokenized economies, while aligning our collective success with the individual benefit of token holders.\nOur social layer is even more important, as it will unite the token engineering field around the ethical principles, standards, tools and methodologies that emerge as this nascent field advances. \n",
+        "Impact Capital":"Social,Financial,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance,Descentralized Science,Collective Impact -- UN style we support other smaller orgs to succeed,Applied Research,Tooling + Infrastructure,Web3 Onboarding,Education,New Data Economy (eg. Ocean Protocol),Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":"https:\/\/blockscout.com\/xdai\/mainnet\/token\/0x5dF8339c5E282ee48c0c7cE8A7d01a73D38B3B27\/token-transfers"
+    },
+    {
+        "Project Name":"The Eden Dao",
+        "UID":1.441832916e+18,
+        "Twitter":"theedendao",
+        "DAO Friends":[
+            "ReFi DAO",
+            "Dream DAO",
+            "GitcoinDAO",
+            "Kumo Earth",
+            "TEC",
+            "1Hive Gardens",
+            "ClimateDAO ",
+            "Aera Force",
+            "KlimaDAO"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Avano",
+            "Carbon Captors ",
+            "ClimateDAO ",
+            "Cohere",
+            "dClimate",
+            "Endaoment",
+            "MOONJELLY",
+            "NFTree Haus",
+            "Protein Community",
+            "ReFi DAO",
+            "Return Protocol",
+            "Solid World DAO",
+            "Aera Force",
+            "Bloom Network",
+            "Xplorer Club. Environment.wiki"
+        ],
+        "Project Website":"https:\/\/gateway.edendao.finance",
+        "Project Description":"The Eden Dao is creating a decarbonization warp drive protocol to hyperscale carbon removal. With tokenomics that reframe carbon as a source of money in the world (instead of a cost on the shoulders of corporations or consumers), we unlock an elastic, optimistic demand engine that bootstraps world carbon removal supply.",
+        "Impact Capital":"Social,Material,Financial,Living",
+        "Impact Roles":"Enabling a New Giving Economy,Regenerative Finance",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Therapoid",
+        "UID":3042992050.0,
+        "Twitter":"opentherapeutic",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "Molecule"
+        ],
+        "Project Website":"https:\/\/Therapoid.net",
+        "Project Description":"An open science DeSci platform (Therapoid) for students & scientists to collaborate in an interdisciplinary environment that provides grants, intellectual properties, lab equipment, forums, manuscript review tool (soon to be preprint server), and ScienceCoins (SCI) awards for collaborating. Therapoid is a hybrid organizational  model that enables the community development of open science DeSci features as individual DAOs that then connect to Therapoid (hub\/spokes). The goal is to create a robust open science environment that brings together all the fragmented science efforts in a single comprehensive effort that awards researchers for collaborating.  The business model charges governments, enterprises, and institutions the ability to mine for scientists, consultants, and contractors.  Researchers get tremendous visibility to recruiters for employment opportunities while at the same time getting awarded for open science collaboration.",
+        "Impact Capital":"Social,Material,Financial,Living,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Descentralized Science,Applied Research,Education,Economic Development\/Financial Inclusion,Identity",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"Tip Party",
+        "UID":1.433871956e+18,
+        "Twitter":"moonshotcollect",
+        "DAO Friends":[
+            "TEC",
+            "GitcoinDAO",
+            "DeveloperDAO"
+        ],
+        "DAO Followers":[
+            "Cheerbot",
+            "Cherubs DAO",
+            "DeveloperDAO",
+            "Geo Web",
+            "GitcoinDAO",
+            "SolidarityCard",
+            "TEC",
+            "VitaDAO"
+        ],
+        "Project Website":"http:\/\/tip.party",
+        "Project Description":"Tip Party allows you to reward event participants all at once with tokens, using a simple interface",
+        "Impact Capital":"Material,Financial",
+        "Impact Roles":"Regenerative Finance,Tooling + Infrastructure",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"UltraSound Merch Supply Chain",
+        "UID":1.488196315e+18,
+        "Twitter":"ultrasoundmerch",
+        "DAO Friends":[
+            "DAOpunks",
+            "ShapeShift DAO"
+        ],
+        "DAO Followers":[
+            "DAOpunks"
+        ],
+        "Project Website":"http:\/\/ultrasoundmerch.com",
+        "Project Description":"Conceived in Bankless DAO, UltraSound Merch brings digital artwork and communities into the physical world with the world\u2019s first \u2018on-chain supply chain\u2019 merch platform. USM provides a streamlined process for crypto-native artists and web3 communities to easily create, produce, earn passive income from, and ship custom-designed evergreen apparel and merchandise, as quickly as same-day. \n\nThe UltraSound Merch Supply Chain includes the \u2018Bankless Checkout,\u2019 our custom-built Layer-2 payment gateway. \u2018Bankless Checkout\u2019 enables USM to accept payments in a range of cryptocurrencies and community tokens. Plus, it features an automated, on-chain, revenue-splitting mechanism that transfers proceeds directly to the wallets of the artists, contributors and suppliers, eliminating credit from the supply chain entirely for that purchase.\n\nUltraSound Merch is also pioneering \u2018NFT receipts,\u2019 another major advance for the crypto-commerce space. \u2018NFT receipts\u2019 provide immutable proof of authenticity and ownership for physical goods, but they also unlock incredible new web3 opportunities for:\n- Future airdrops from USM and\/or the artist, \n- Token-gated access to exclusive content, \n- Community building, \n- Bundling merch and digital NFT art purchases together, \n- Verifiable reviews,\n- Among many other possibilities.\n\nOur evergreen blanks \u2013meaning always available in all sizes\u2014 are ethically sourced and environmentally conscious organic cotton, produced in facilities paying living wages. We have partnered with crypto-friendly printers to print using efficient and vibrant techniques, providing unparalleled customization and quality. Our packaging also dispels plastics and unusable packaging, making our products truly 'UltraSound.'",
+        "Impact Capital":"Social,Cultural",
+        "Impact Roles":"Web3 Onboarding,Identity",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"VitaDAO",
+        "UID":1.361314891e+18,
+        "Twitter":"vita_dao",
+        "DAO Friends":[
+            "Atoms",
+            "Tip Party",
+            "Molecule",
+            "KlimaDAO",
+            "LabDAO",
+            "GitcoinDAO",
+            "Giveth",
+            "Foresight Institute DAO",
+            "Molecule",
+            "TEC"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Cabin",
+            "Cherubs DAO",
+            "ClimateDAO ",
+            "Foresight Institute DAO",
+            "LabDAO",
+            "LYNX",
+            "Molecule",
+            "Parcel.money",
+            "TEC"
+        ],
+        "Project Website":"https:\/\/vitadao.com",
+        "Project Description":"We discover and fund the most promising longevity research. We are funding early stage research, and try to turn it into biotech companies. Members can join VitaDAO by purchasing VITA tokens  or earning them through contributions of work or Intellectual Property.\nLearn more",
+        "Impact Capital":"Financial",
+        "Impact Roles":"Descentralized Science",
+        "Impact Metrics":"https:\/\/snapshot.org\/#\/vote.vitadao.eth"
+    },
+    {
+        "Project Name":"Web3 Music Metadata Standards Coalition",
+        "UID":1.488939651e+18,
+        "Twitter":"web3coalition",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+            "Cheerbot"
+        ],
+        "Project Website":null,
+        "Project Description":"Web3 music metadata coalition is a roundtable for TradMusic and DeMusic to work together on governance, think ENS.",
+        "Impact Capital":"Social,Material,Intellectual,Cultural",
+        "Impact Roles":"Web3 Onboarding,Education,New Data Economy (eg. Ocean Protocol),Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"WellnessDAO",
+        "UID":1.485047824e+18,
+        "Twitter":"wellnessdao",
+        "DAO Friends":[
+            "Cabin",
+            "DeveloperDAO"
+        ],
+        "DAO Followers":[
+            "DeveloperDAO"
+        ],
+        "Project Website":"http:\/\/wellnessdao.life",
+        "Project Description":"WellnessDAO is a modern health and wellness club, emphasizing the singular importance of mental health and wellness in web3 through social accountability. Our mission is to prioritize the dialogue around spiritual growth and caring for our physical and psychological needs amidst the excitement and instantaneous pace of web3. \n\nWe do this by building wellness into the fabric of our community with digital events like meditation and yoga, group accountability in journaling, and physical meetups. We are planning to host wellness retreats across the world with our community of coaches, instructors, and spirit guides. Ultimately, our goal is to own retreat centers (both IRL and in the meta-lands) and build a holistic, integrated wellness community. These will be practice-agnostic retreats, serving as a blank canvas for coaches, practitioners, and instructors to create unique experiences as voted on by the DAO.",
+        "Impact Capital":"Social,Material,Intellectual,Experiential,Spiritual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Collective Impact -- UN style we support other smaller orgs to succeed,Education,Identity",
+        "Impact Metrics":"https:\/\/discord.com\/invite\/DERPAJ3cXe"
+    },
+    {
+        "Project Name":"Xplorer Club. Environment.wiki",
+        "UID":1.496174519e+18,
+        "Twitter":"clubxplorers",
+        "DAO Friends":[
+            "The Eden Dao",
+            "Avano",
+            "KlimaDAO",
+            "ClimateDAO ",
+            "ReFi DAO",
+            "GitcoinDAO",
+            "Solid World DAO",
+            "Return Protocol",
+            "Cabin",
+            "Dream DAO"
+        ],
+        "DAO Followers":[
+            "Solid World DAO"
+        ],
+        "Project Website":"http:\/\/Xplorerclub.xyz",
+        "Project Description":"The goal is to make a collection point of sustainability projects that is ubiquitous and can be researched and used by organs to help themselves or just get visibility, then use the dao members to vote on their favorites and distribute money to a few micro projects or moon shots that otherwise would get no attention. Tokens should be available or dropped to people that contribute.  Plus trip discounts and group trips to wild places or fantastic projects. ",
+        "Impact Capital":"Social,Financial,Intellectual,Experiential",
+        "Impact Roles":"Enabling a New Giving Economy,Descentralized Science,Collective Impact -- UN style we support other smaller orgs to succeed,Education",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"dClimate",
+        "UID":1.35638342e+18,
+        "Twitter":"dclimatedao",
+        "DAO Friends":[
+            "Astral Protocol",
+            "The Eden Dao",
+            "ReFi DAO"
+        ],
+        "DAO Followers":[
+            "AntidoteDAO",
+            "Astral Protocol",
+            "Avano",
+            "Blood M1n3",
+            "Carbon Captors ",
+            "ClimateDAO ",
+            "Geo Web",
+            "Return Protocol",
+            "Solid World DAO"
+        ],
+        "Project Website":"http:\/\/dclimate.net",
+        "Project Description":"dClimate is a transparent, decentralized marketplace that allows participants to buy and share climate data and contribute to an open ecosystem of data-driven climate resilience applications. dClimate directly connects data publishers and consumers in a single marketplace that serves as an iTunes store for climate information, which makes finding and consuming indexed climate data simple enough for even casual users. The marketplace creates a direct to consumer mechanism for data publishers to monetize their work, and the dClimate DAO incentivizes product development within its ecosystem for builders looking to use data to create meaningful climate action tools, apps, and technology. Starting with a foundation of 20TB+ of institutional grade climate data that is all available for free and a strong anchor client in Arbol, a leading platform for data-driven parametric weather insurance, dClimate is making climate action simpler to build towards by unlocking the power of data. ",
+        "Impact Capital":"Material,Financial,Living,Intellectual",
+        "Impact Roles":"Regenerative Finance,Descentralized Science,Collective Impact -- UN style we support other smaller orgs to succeed,Applied Research,Tooling + Infrastructure,New Data Economy (eg. Ocean Protocol)",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"impactMarket",
+        "UID":9.815451185e+17,
+        "Twitter":"ipctmarket",
+        "DAO Friends":[
+            "GitcoinDAO",
+            "Grassroots Economics"
+        ],
+        "DAO Followers":[
+            "Endaoment",
+            "Protein Community",
+            "Solid World DAO"
+        ],
+        "Project Website":"https:\/\/www.impactmarket.com\/",
+        "Project Description":"impactMarket is an open, free, censorship-resistant, and borderless impact-driven crowdfinance marketplace to fight poverty.\nIt merges the principles of unconditional basic income with blockchain technology to enable any community to have access to a basic income through its own UBI smart contract with specific parameters based on their reality. Beneficiaries added to those contracts can claim cUSD on a regular basis and use it for whatever they want or need.\n\n impactMarket is being built to:\n\n- Accelerate poverty alleviation, access to finance, and wealth redistribution\n- Ensure the primacy of the individual and the social objective over capital\n- Allow democratic governance, autonomous management, and independence of the protocol from public and central authorities",
+        "Impact Capital":"Social,Material,Financial,Living",
+        "Impact Roles":"Web3 Onboarding,Education,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/www.impactmarket.com\/global-dashboard"
+    },
+    {
+        "Project Name":"impactMarket",
+        "UID":9.815451185e+17,
+        "Twitter":"ipctmarket",
+        "DAO Friends":[
+            "GitcoinDAO",
+            "Grassroots Economics"
+        ],
+        "DAO Followers":[
+            "Endaoment",
+            "Protein Community",
+            "Solid World DAO"
+        ],
+        "Project Website":"http:\/\/impactMarket.com",
+        "Project Description":"Poverty alleviation protocol that enables any vulnerable community to access finance and unconditional basic income",
+        "Impact Capital":"Social,Financial,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Collective Impact -- UN style we support other smaller orgs to succeed,Web3 Onboarding,Economic Development\/Financial Inclusion",
+        "Impact Metrics":"https:\/\/www.impactmarket.com\/global-dashboard"
+    },
+    {
+        "Project Name":"the AGI DAO",
+        "UID":1.486709809e+18,
+        "Twitter":"theagidao",
+        "DAO Friends":[
+
+        ],
+        "DAO Followers":[
+
+        ],
+        "Project Website":"https:\/\/coda.io\/@nick-linck\/imagin\/tl-dr-32",
+        "Project Description":"We are democratizing access to AI by creating a DAO focused on:\n1. Funding AI research. \n2. Developing AI.\n3. Distributing the wealth created by AI, especially to those whose jobs are displaced by AI.",
+        "Impact Capital":"Financial,Intellectual,Cultural",
+        "Impact Roles":"Enabling a New Giving Economy,Descentralized Science,Applied Research,Economic Development\/Financial Inclusion",
+        "Impact Metrics":null
+    },
+    {
+        "Project Name":"voizdao",
+        "UID":1.444427384e+18,
+        "Twitter":"voizdao",
+        "DAO Friends":[
+            "TEC",
+            "Giveth",
+            "Ed3DAO \/ Ed3 Educators",
+            "KlimaDAO",
+            "1Hive Gardens",
+            "1Hive"
+        ],
+        "DAO Followers":[
+            "Giveth",
+            "TEC"
+        ],
+        "Project Website":"http:\/\/voizdao.xyz",
+        "Project Description":"VoizDAO is sense-making community led by college students that mobilizes for a livable planet. We exist to hold our institutions accountable, guide investors and consumers, and coordinate collective action on a mass scale. We recognize that incremental progress on climate and social justice is falling way short, and we seek to replace the failed, dominant narrative of sustainability with a solarpunk, regenerative one. We exist IRL on college campuses and have drawn 450 members from over 50 schools in the UK and U.S.. Our main outputs are sustainable investment (fka ESG) ratings, product sustainability ratings, peer-to-peer climate and sustainability education, summits, and solarpunk NFTs. We plan to roll out the first solarpunk \"crypto ESG\" index later this year.",
+        "Impact Capital":"Social,Financial,Intellectual,Experiential,Cultural",
+        "Impact Roles":"Regenerative Finance,Collective Impact -- UN style we support other smaller orgs to succeed,Applied Research,Web3 Onboarding,Education",
+        "Impact Metrics":"http:\/\/voizdao.xyz\/reviews"
+    }
+]
