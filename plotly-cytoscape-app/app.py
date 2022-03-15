@@ -4,13 +4,14 @@ from dash.exceptions import PreventUpdate
 import dash_bootstrap_components as dbc
 
 import dash_cytoscape as cyto
-import plotly.graph_objects as go
 import plotly.express as px
 
 import json
 import networkx as nx
 
+
 # SETTINGS
+
 MIN_CONNECTIONS = 5
 SEED = 1300
 XSCALE = 400
@@ -37,6 +38,33 @@ with open(json_datapath, 'r') as json_file:
     }
     all_projects = list(project_data.keys())
 
+
+# GRAPH STYLING
+
+stylesheet = [
+    {
+        "selector": "node",
+        "style": {
+            'content': 'data(label)',
+            "width": "data(node_size)", 
+            "height": "data(node_size)", 
+            "background-color": "data(color)",
+            "background-opacity": .5,
+            'font-size': '10px',
+            'text-wrap': 'wrap'
+        },
+    },
+    {
+        "selector": "edge", 
+        "style": {
+            "width": .1, 
+            "curve-style": "bezier"
+        }
+    },
+]
+
+
+# GRAPH MODULES
 
 def build_elements(list_of_projects):
 
@@ -77,32 +105,6 @@ def build_elements(list_of_projects):
     return elements
 
 
-
-# APP SET-UP
-
-stylesheet = [
-    {
-        "selector": "node",
-        "style": {
-            'content': 'data(label)',
-            "width": "data(node_size)", 
-            "height": "data(node_size)", 
-            "background-color": "data(color)",
-            "background-opacity": .5,
-            'font-size': '10px',
-            'text-wrap': 'wrap'
-        },
-    },
-    {
-        "selector": "edge", 
-        "style": {
-            "width": .1, 
-            "curve-style": "bezier"
-        }
-    },
-]
-
-
 def make_graph():
 
     elements = build_elements(all_projects)
@@ -115,24 +117,39 @@ def make_graph():
     )
     return graph
 
+
+# APP LAYOUT
+
 content = html.Div([
     dbc.Row([
         dbc.Col([
             html.Strong("Impact DAO Network Map - V0.1"),
-            html.P("Click on a DAO to learn more about its mission and impact.")
+            html.P([
+                "Click on a DAO to learn more about its mission and impact. ",
+                "Then join the crowdfund on ", 
+                html.A("Gitcoin Grants", href="https://gitcoin.co/grants/"),
+                " and find ways of ",
+                html.A("contributing", href="https://gitcoin.co/explorer"),
+                " too!"
+            ])
         ])
     ], align='center'),
     dbc.Row(make_graph()),
     dbc.Row(id='cytoscape-tapNode')
-])
+], style={'padding': 10})
 
 
-app = Dash(__name__, suppress_callback_exceptions=False)
+# APP SET-UP
+
+app = Dash(__name__, suppress_callback_exceptions=False, 
+            external_stylesheets=[dbc.themes.ZEPHYR])
 server = app.server
 app.title = "Impact DAO Network Map"
 app.layout = html.Div([content])
 
+
 # CALLBACKS
+
 @app.callback(Output('cytoscape-tapNode', 'children'),
               Input('cytoscape', 'tapNodeData'))
 def displayTapNodeData(node):
@@ -145,12 +162,14 @@ def displayTapNodeData(node):
         return [
             html.Strong(project),            
             html.P(desc),
-            "Twitter:", html.A(f"@{twitter}", href=f"https://twitter.com/{twitter}"),
-            " | Website: ", html.A(website, href=website),
-            " | Metrics: ", html.A("Available here", href=metrics),
+            html.P([
+                "Twitter:", html.A(f"@{twitter}", href=f"https://twitter.com/{twitter}"),
+                " | Website: ", html.A(website, href=website),
+                " | Metrics: ", html.A("Available here", href=metrics)
+            ]),
         ]
 
-
+    
 # RUN
 
 if __name__ == "__main__":
